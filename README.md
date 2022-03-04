@@ -1,4 +1,4 @@
-![](https://gssoc.girlscript.tech/images/type-logo.png)
+![](https://gssoc.girlscript.tech/images/type-logo.png)  
 # GirlScript Summer of Code
 ## Official website repo of GSSoC '22
 
