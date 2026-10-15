@@ -1,0 +1,702 @@
+[
+  {
+    "project_name": "Retro Music Player",
+    "owner_name": "Daksh P. Jain",
+    "project_link": "https://github.com/RetroMusicPlayer/RetroMusicPlayer",
+    "technology_used": "Kotlin,Java,Android,MVVM",
+    "project_description": "Retro Music Player is a beautiful offline music player made with Kotlin and Java. It is based on Material UI design system and is one of the top music players with 1M+ downloads on Play Store."
+  },
+  {
+    "project_name": "Rotten Scripts",
+    "owner_name": "Harsh Bardhan Mishra",
+    "project_link": "https://github.com/harshcasper/rotten-scripts",
+    "technology_used": "Python, Javascript, Golang, BASH",
+    "project_description": "Rotten Scripts contains amazing and awesome scripts written in Python, JavaScript, Bash, Powershell, and more. Consider this repository as your personal space to find or add any new script that can make life easier for us and the Open Source community too, as a Developer, and find a utility of coding to burst out of boredom. Get started with coding exhilarating scripts that you can use to download PDFs from an Online Source or just to randomly like everyone's Instagram Post."
+  },
+  {
+    "project_name": "Dynamic-cli",
+    "owner_name": "Gourav Sardana",
+    "project_link": "https://github.com/IndianOpenSourceFoundation/dynamic-cli",
+    "technology_used": "Python",
+    "project_description": "A Modern, user-friendly, command-line HTTP client for the API testing, and if you're stuck - Search and browse StackOverflow without leaving the CLI"
+  },
+  {
+    "project_name": "Face-X",
+    "owner_name": "Akshita Gupta",
+    "project_link": "https://github.com/akshitagupta15june/Face-X",
+    "technology_used": "ML, IoT, CNN, ANN, openCV",
+    "project_description": "Demonstration of different Algorithms and Operations on faces."
+  },
+  {
+    "project_name": "Fun with Science",
+    "owner_name": "Amit Kumar Mishra",
+    "project_link": "https://github.com/Tech-N-Science/FunwithScience",
+    "technology_used": "HTML, CSS, ReactJS, PHP",
+    "project_description": "TechnScience is a Physics calculator built with React where the user just needs to enter the values and the project calculates the result using the formula."
+  },
+  {
+    "project_name": "Kidney Exchange",
+    "owner_name": "D Sivaram",
+    "project_link": "https://github.com/siv2r/kidney-exchange",
+    "technology_used": "PHP,MySQL,JavaScript,CSS,Python",
+    "project_description": "Let's say a person wants to donate their kidney to a loved one but cannot do so because they have some medical incompatibility. This problem can be solved by curating similar patients and swapping the kidney within themselves. This problem is called the living donor kidney exchange problem, and in most India, doctors solve it manually. This project aims to automate a part of this process. This project's primary focus is to provide a platform to facilitate automized inter-hospital kidney transplants.\n\nThis platform allows interested hospitals to register their information. Then, the doctors from the registered hospitals can create their accounts and add their patients' (having kidney problems) medical details to this platform.\n\nAfter a doctor completes this process, this platform provides two main features. The first feature is to view only the essential details required for a kidney transplant. These details are stored in a MySQL database using PHP. Second, all suitable matches from this and other registered hospitals are displayed for a given patient. These suitable matches are ranked from best match to bad match."
+  },
+  {
+    "project_name": "Breast Cancer Predictor",
+    "owner_name": "Sri Manikanta Palakollu",
+    "project_link": "https://github.com/srimani-programmer/Breast-Cancer-Predictor",
+    "technology_used": "Python, Deep Learning, Machine Learning, Flask",
+    "project_description": "Breast cancer is the most common type of cancer in women. When cancers are found early, they can often be cured. Some devices detect breast cancer but many times they lead to false positives, which results in patients undergoing painful, expensive surgeries that were not even necessary. These type of cancers are called benign which do not require surgeries and we can reduce these unnecessary surgeries by using Machine Learning. I have taken the dataset of the previous breast cancer patients and train the model to predict whether the cancer is benign or malignant. These predictions will help doctors to do surgeries only when the cancer is malignant, thus reducing the unnecessary surgeries for women."
+  },
+  {
+    "project_name": "AEC-LIBRARY-WEBSITE",
+    "owner_name": "Saurav Mukherjee",
+    "project_link": "https://github.com/SauravMukherjee44/Aec-Library-Website",
+    "technology_used": "HTML, CSS, JavaScript, PHP, Bootstrap ,  API",
+    "project_description": "This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books issued"
+  },
+  {
+    "project_name": " ML Capsule ",
+    "owner_name": "Niket Kumar dheeryan",
+    "project_link": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+    "technology_used": "Python , Machine Learning , Deep learning ,Computer Vision , Flask , Django , Android , Front-End  ",
+    "project_description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.\n"
+  },
+  {
+    "project_name": "QuickLearn",
+    "owner_name": "GDSC JSS NOIDA",
+    "project_link": "https://github.com/DSC-JSS-NOIDA/QuickLearn",
+    "technology_used": "HTML,CSS,JavaScript,Bootstrap",
+    "project_description": "A collection of resources categorised by tech domains, languages, expertise and much more. QuickLearn gives you a quick access to all the resources that you could need at a single place, within a click!"
+  },
+  {
+    "project_name": "HITK-Tech-Community-Website",
+    "owner_name": "Kajol Kumari",
+    "project_link": "https://github.com/HITK-TECH-Community/Community-Website",
+    "technology_used": "MongoDB, ReactJS, ExpressJS, NodeJS",
+    "project_description": "Being from tier-2 and tier-3 colleges, you often face the problem of knowledge gap in our college days. But once you begin walking in the path of tech, you discover a place where people are just like you. 😇✨ We are a group of students trying to fill the knowledge gap and help you find your place of discovery by sharing you the opportunities and resources at the right time!⏱️\nThis project aims to build the official site for the community page so that any student can use the resources shared by us."
+  },
+  {
+    "project_name": "Vita ",
+    "owner_name": "Rishabh Malhotra",
+    "project_link": "https://github.com/Rishabh-malhotraa/Vita",
+    "technology_used": "TypeScript,ReactJS,MaterialUI,ExpressJS, NodeJS,MongoDB,Websockets,UI/UX",
+    "project_description": "Vita is a 1-1 mentorship platform that allows peers to easily search for mentors and to schedule a meet with them. Vita is a SAAS product that aims to connect college graduates, alumni, and faculty to revive the culture of mentorship and foster a more connected and ENGAGED community."
+  },
+  {
+    "project_name": "Medi-Care",
+    "owner_name": "Mohit Lamba",
+    "project_link": "https://github.com/mohit200008/medi-Care",
+    "technology_used": "Reactjs, Django, Machine learning, BootStrap",
+    "project_description": "MediCare is a one stop location to discuss about different medical milestones, AI Disease prediction system, locate nearby hospitals to get proper medical care, and finally a translator to get the whole web app in the language one is comfortable with and hence dissolve any communication barrier."
+  },
+  {
+    "project_name": "Cosmo Infinitas",
+    "owner_name": "Abhisek Yadav",
+    "project_link": "https://github.com/cosmoinfinitas",
+    "technology_used": "ReactJS, Solidity, Web3JS, NodeJS, NextJS",
+    "project_description": "Cosmo Infinitas is a community driven metaverse wherein a virtual world with infinity possibilities exists."
+  },
+  {
+    "project_name": "Rezume",
+    "owner_name": "Praveen Kumar Purushothaman",
+    "project_link": "https://github.com/CatsInTech/Rezume/",
+    "technology_used": "ReactJS,NodeJS,HTML,SCSS,Bootstrap",
+    "project_description": "Rezume is a free online portal for generating resumes without worrying about the styling and formatting. In the web portal, you only need to input the basic information which you want to have on your resume and it will automatically generate a decent resume for you."
+  },
+  {
+    "project_name": "BigB E-learning website ",
+    "owner_name": "Shivam Garg",
+    "project_link": "https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e",
+    "technology_used": "SAAS, HTML, Ruby, CSS, JavaScript",
+    "project_description": "This is an Open-Source Educational space, which cover all the educational concepts: Notes, Sample Papers, Online Video Lectures and courses to crack competitive interviews, both product and service based companies. Students can clear their doubts by sending their questions to our website. There are quizzes and  Interview questions for students who are preparing for placements."
+  },
+  {
+    "project_name": "Community Website",
+    "owner_name": "Sahitya Roy",
+    "project_link": "https://github.com/Eduhub-Community/eduhub-website",
+    "technology_used": "HTML , CSS , JavaScript, Bootstrap, PHP ",
+    "project_description": "Eduhub is a website that aims to keep everyone be it students, learners or any person, up to date with the latest technologies. It also provides various career pathways thus helping the community and growing peers."
+  },
+  {
+    "project_name": "Bundli-Frontend",
+    "owner_name": "Ayush Kumar",
+    "project_link": "https://github.com/Ayush7614/Bundli-Frontend",
+    "technology_used": "HTML5, CSS3, SCSS, JavaScript, Bootstrap, React, Angular , EJS, Typescript",
+    "project_description": "Bundli-Frontend is an open-source project which contains different frontend development code: HTML, CSS, JS, REACT, ANGULAR and APIs. "
+  },
+  {
+    "project_name": "Tarana - Best Music Player",
+    "owner_name": "Sonu Kumar Kushwaha",
+    "project_link": "https://github.com/flyingsonu122/tarana",
+    "technology_used": "NodeJS,ExpressJS,MongoDB,HTML,CSS,JavaScript",
+    "project_description": "Tarana is the best music player android app. It has many features which can be improved and enhanced."
+  },
+  {
+    "project_name": "Coding Easy",
+    "owner_name": "Arpit Jain",
+    "project_link": "https://github.com/arpit456jain/CodingEasy",
+    "technology_used": "HTML , CSS , Bootstrap , Python , Django.",
+    "project_description": "A website to learn coding of different tech stacks and technology at one place."
+  },
+  {
+    "project_name": "Solgames",
+    "owner_name": "Sandeep Ghosh",
+    "project_link": "https://solgames.fun/",
+    "technology_used": "ReactJS, ExpressJS, NodeJS, NestJS, Web3JS, Solana",
+    "project_description": "The Metaverse of Gaming on NFT: Platform Built on Solana"
+  },
+  {
+    "project_name": "Mail Tracker (All in One Mail Application)",
+    "owner_name": "Tushar Amdoskar",
+    "project_link": "https://github.com/TusharAMD/Mailtrack",
+    "technology_used": "Python, Flask, ReactJS, MongoDB, JavaScript, Open CV",
+    "project_description": "Mail Tracker is a mail tracking application based on pixel tracking. An image file which can be a small 1X1px transparent image will be sent in the mail. When the mail is opened, the sender will get a notification and tracking data will be added to the MongoDB Database. Contributors are expected to enhance this project by adding features like user sign-in, link tracking and much more."
+  },
+  {
+    "project_name": "Cool Front End Templates",
+    "owner_name": "Arpit Jain",
+    "project_link": "https://github.com/arpit456jain/Cool-Front-End-Templates",
+    "technology_used": "HTML,CSS,Bootstrap,JavaScript",
+    "project_description": "The place where you can save your amazing templates which can be reused in your projects. In this project, you can contribute to part you like and rejuvenate your Frontend skills"
+  },
+  {
+    "project_name": "Amazing-Css-Effects",
+    "owner_name": "Arpit Jain",
+    "project_link": "https://github.com/arpit456jain/Amazing-Css-Effects",
+    "technology_used": "HTML,CSS,Bootstrap,JavaScript",
+    "project_description": "A repo where you can showcase your CSS skills. In this project, you can contribute to part you like and rejuvenate your Front-end skills.\n"
+  },
+  {
+    "project_name": "Amazing-Js-Projects",
+    "owner_name": "Arpit Jain",
+    "project_link": "https://github.com/arpit456jain/Amazing-Js-Projects",
+    "technology_used": "HTML,CSS,Bootstrap,JavaScript",
+    "project_description": "A repo to help you present your early start js projects.It allows you to save amazing reusable templates, CSS to showcase skills and JS to help you present your JS projects. In this project, you can contribute to part you like and rejuvenate your Frontend skills"
+  },
+  {
+    "project_name": "Runn (Gesture Gaming)",
+    "owner_name": "Tushar Amdoskar",
+    "project_link": "https://github.com/TusharAMD/Runn",
+    "technology_used": "Python, openCV, MediaPipe, Pygame",
+    "project_description": "It's a gaming application developed using pygame which can be used and played using gestures rather than a traditional keyboard or mouse. User's gestures are tracked by Opencv which is used to trigger the game's actions(left, right, bottom, top).In this game, a player will have to pick flowers while avoiding stones and as per his performance score is evaluated. This game aims to promote body exercise."
+  },
+  {
+    "project_name": "Zipify",
+    "owner_name": "Pulkit Gupta & Ayush Kumar ",
+    "project_link": "https://github.com/MetaVASP/Zipify",
+    "technology_used": "ExpressJS , NodeJS , JSZip , Multer , HTML5 , CSS3",
+    "project_description": "Zipify is an online file compressor. It can make a zip file for a group of files. It's can also compress a file."
+  },
+  {
+    "project_name": "Hash-Whiteboard",
+    "owner_name": "Dhairya Bahl",
+    "project_link": "https://github.com/hash-define-organization/Hash-Whiteboard",
+    "technology_used": "ReactJS, SocketIO",
+    "project_description": "Hash-whiteboard is a simple whiteboard created using ReactJS and Material UI. It can be made better in many ways by adding many more interesting features."
+  },
+  {
+    "project_name": "Hash Define Official Website",
+    "owner_name": "Achit Jain",
+    "project_link": "https://github.com/hash-define-organization/website-update",
+    "technology_used": "Gulp, Vanilla JS, SASS, Pug, NodeJS",
+    "project_description": "Hash-define is a website established with the aim to help consumers become creators. It has touched the lives of 400+ individuals through various events and helped them become successful programmers. Hash-define stands with thousands of students who wish to learn how to code, have a fascination for new technologies and with those who wish to make code speak faster than their language."
+  },
+  {
+    "project_name": "HashIDE",
+    "owner_name": "Vaibhav Paliwal",
+    "project_link": "https://github.com/hash-define-organization/hashdefine-onlineIDE",
+    "technology_used": "MongoDB, ReactJS, Material UI, NodeJS, ExpressJS",
+    "project_description": "An intuitive online IDE with an integrated whiteboard made using MERN stack. You can run, compile and use whiteboard altogether here."
+  },
+  {
+    "project_name": "hash.bin",
+    "owner_name": "Samriddh Jain",
+    "project_link": "https://github.com/hash-define-organization/hash.bin",
+    "technology_used": "MongoDB, ReactJS, ExpressJS, NodeJS, JavaScript, TypeScript, SCSS",
+    "project_description": "Hash-bin is a platform that provides the easiest and quickest way to shorten URLs and share short code samples, logs, links or markdown notes with anybody for free!"
+  },
+  {
+    "project_name": "Certified-Cliché",
+    "owner_name": "Yash Garg",
+    "project_link": "https://github.com/Megabyte-143/certified_cliche",
+    "technology_used": "NextJS, Solidity, JavaScript, NodeJS",
+    "project_description": "Certified-Cliche is a platform that will get the authenticity of the CERTIFICATES to the highest level. It is a platform where the Institutions, Organisations, or anyone who provides certificates will convert it into the NFT or store it in NFT,  which will make their certificates authentic."
+  },
+  {
+    "project_name": "PyDataStructs",
+    "owner_name": "Gagandeep Singh",
+    "project_link": "https://github.com/codezonediitj/pydatastructs",
+    "technology_used": "Python,Git,C++",
+    "project_description": "PyDataStructs project aims to be a Python package for various data structures and algorithms (including their parallel implementations). We are also working on providing C++ backend via Python C-API for high performance use cases."
+  },
+  {
+    "project_name": "Take A Break",
+    "owner_name": "Daksh P. Jain",
+    "project_link": "https://github.com/Daksh777/TakeABreak",
+    "technology_used": "HTML,CSS,JavaScript",
+    "project_description": "Ever took a break which lasted forever? Not anymore.\nTake controlled breaks and stop procrastinating endlessly.\n\nAll you have to do now is decide how long of a break you want, go to your favorite website and take a break till the tab automatically closes."
+  },
+  {
+    "project_name": "ElectroTech E-commerce Website",
+    "owner_name": "Syed Md Furquan ",
+    "project_link": "https://github.com/TheTeamEngineer/ElectroTech",
+    "technology_used": "ReactJS, Bootstrap, Firebase, NodeJS",
+    "project_description": "ElectroTech is a website that believes in a 360-degree approach for its clients to provide a hassle-free platform for a wide range of robotic products. It is particular about full client satisfaction with respect to post-sales services and has a highly dedicated team behind it."
+  },
+  {
+    "project_name": "GCECT-APP",
+    "owner_name": "Sitam Sardar",
+    "project_link": "https://github.com/ByteMonk-GCECT/GCECT-APP",
+    "technology_used": "Android , Kotlin , XML , Firebase",
+    "project_description": "It's a university app having all features of the university website along with some more additional exciting features. It aims at making student's life easier by providing many features like pdf viewer, important notices delivering ,a discussion forum to resolve student's doubts  and much more."
+  },
+  {
+    "project_name": "Meetly - Open Source",
+    "owner_name": "Vignesh Shetty",
+    "project_link": "https://github.com/vigneshshettyin/Meetly",
+    "technology_used": "Kotlin, Flask, Firebase, Python",
+    "project_description": "An intuitive productivity app for busy people. Life can be very chaotic, but it should not be. Bring order, manage your meetings and also create new meetings with the help of Meetly. Meetly integrates meeting management and video conferencing under a single platform."
+  },
+  {
+    "project_name": "Go-Airbnb",
+    "owner_name": "Aman Shrivastava",
+    "project_link": "https://github.com/aman34503/Lets-Talk/",
+    "technology_used": "ReactJS,Bootstrap,MaterialUI,NodeJS,ExpressJS,MongoDB",
+    "project_description": "This project aims at helping beginners with their contributions in Open Source and bringing all the possible Frontend (UI) knowledge together. "
+  },
+  {
+    "project_name": " Clone IT ",
+    "owner_name": "Rayman Kour  Sodhi",
+    "project_link": "https://github.com/Rayman-Sodhi/Clone-IT",
+    "technology_used": "HTML, CSS , JavaScript, ReactJS, ExpressJS, Bootstrap,WebRTC,ExpressJS, NodeJS",
+    "project_description": "The idea behind this project is to learn how different websites are made by directly cloning them using the same layout and design. Even more websites can be included in the list and new features can be added to the existing ones. "
+  },
+  {
+    "project_name": "Ezlogs",
+    "owner_name": "Aryaman",
+    "project_link": "https://github.com/Aryamanz29/Elastic-CFC",
+    "technology_used": "Django, Django REST framework, Elastic search, React, Redis, SQLite",
+    "project_description": "Ezlogs is a log analyzer build upon elastic search aiming to help developers to segregate their logs so that they can save a lot of time in debugging and focus more on their productive work ie. coding. The project is built on Elastic search, celery, and Redis for task queuing, DRF for building rest APIs, and react for frontend development."
+  },
+  {
+    "project_name": "ZeroOctave-JavaScript-Projects",
+    "owner_name": "Amitesh Anand",
+    "project_link": "https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects",
+    "technology_used": "HTML, CSS, JavaScript ",
+    "project_description": "ZeroOctave is a javascript repository that provides some awesome web development projects to work upon and enhance your skills. The motive of this project is to help new learners get familiar with web development-related skills."
+  },
+  {
+    "project_name": "Checkpoint",
+    "owner_name": "Antriksh Misri",
+    "project_link": "https://github.com/antrikshmisri/checkpoint",
+    "technology_used": "Python,Pytest,Sphinx,ReactJS,Electronjs,CLI",
+    "project_description": "Checkpoint is a tool that helps you to create restore points for your project.\nUnlike other tools like git, checkpoint makes the whole process as simple as a few clicks.\nPlus, there is no need for a remote repository, checkpoint does everything locally."
+  },
+  {
+    "project_name": "Project-Guidance",
+    "owner_name": "Kushal Das",
+    "project_link": "https://github.com/Kushal997-das/Project-Guidance",
+    "technology_used": "AI, Machine Learning, Data Science, iOT, Web Dev, Android",
+    "project_description": "Project-Guidance contains amazing projects written in multiple programming languages. Here you can easily find beginner to advance level projects. Most of the beginners are unable to find the project so we have taken the initiative to help them. Consider this repository as your personal space to find or add any new project to this repository. Being an open source contributor doesn't just mean writing code. You can also help out by writing documentation, tests, or even giving suggestions."
+  },
+  {
+    "project_name": "Twitter video emotion and sentiment analysis",
+    "owner_name": "Hritik Kumar Singh",
+    "project_link": "https://github.com/hritikksingh/Twitter-video-emotion-and-sentiment-analysis",
+    "technology_used": "Python, API, Neural Networks, Machine Learning, Tensorflow, Twitter",
+    "project_description": "This project analyzes the videos uploaded to Twitter and uses this analysis to help people who are under stress or depression. It generates more useful information about the user's current emotional and sentimental situations and accordingly helps them."
+  },
+  {
+    "project_name": "Startup Incubator",
+    "owner_name": "Aditya Bisoi",
+    "project_link": "https://github.com/adityabisoi/startup-incubator",
+    "technology_used": "ReactJS, NodeJS, heroku, eslint, jest, prettier",
+    "project_description": "A website that helps startups and college students to post ideas and products pre-release and get valuable feedback and suggestions. On this website, the user will be able to post his product/idea and other users would be able to upvote and comment on the user's posts. This will help startups to get valuable feedback."
+  },
+  {
+    "project_name": "Smart Home App",
+    "owner_name": "Lakhan Kumawat",
+    "project_link": "https://github.com/Lakhankumawat/smart-home-app",
+    "technology_used": "Flutter,Firebase,Dart,IOT",
+    "project_description": "It's a home automation mobile application made using flutter & dart. It'll allow you to control all your home gadgets with just one tap."
+  },
+  {
+    "project_name": "Stake Overflow ",
+    "owner_name": "Harsh Ghodkar",
+    "project_link": "https://github.com/Saviour1001/StakeOverflow",
+    "technology_used": "ReactJS, Moralis, Solidity",
+    "project_description": "The idea of this project is to build a clone of the existing Stack Overflow website and make it decentralized and add more features to enhance it. \nFeatures of Decentralized Stack Overflow: \nDecentralized Data Storage\nDonate Feature\nPrivacy and Free for all "
+  },
+  {
+    "project_name": "Unsplashy",
+    "owner_name": "Prathmesh Sadake",
+    "project_link": "https://github.com/PrathmeshSadake/unsplashy",
+    "technology_used": "ReactJS, Material UI, Firebase",
+    "project_description": "Unsplashy is an image gallery that fetches images from Unsplash API. It has some awesome features like searching for images and infinite scrolling in which images keep on loading as the user scrolls."
+  },
+  {
+    "project_name": "UniAuth",
+    "owner_name": "Yash Kumar Verma",
+    "project_link": "https://github.com/uniauth",
+    "technology_used": "MongoDB, ReactJS, NodeJS, TypeScript, NestJS, GoLang, Python, Django, flask, Java",
+    "project_description": "UniAuth is an open-source identity management system, with client libraries that are written in about 4 languages, and 8 frameworks. It allows organizations to launch a google sign-in alternative, which is self-hosted, open-source, free, and completely customizable. "
+  },
+  {
+    "project_name": "Facial-Expression-Recognition",
+    "owner_name": "Nikki Priya",
+    "project_link": "https://github.com/nikki-priyaHIT/Project-Exp-Recog",
+    "technology_used": "Python, Machine Learning, Open CV",
+    "project_description": "\nThis project is made by convolutional neural network (CNN) in Keras from scratch to recognize facial expressions. The data consists of 48x48 pixel grayscale images of faces. The objective is to classify each face based on the emotion shown in the facial expression into one of seven categories using OpenCV to automatically detect faces in images and draw bounding boxes around them."
+  },
+  {
+    "project_name": "NFT-Emporium",
+    "owner_name": "Suvraneel Bhuin",
+    "project_link": "https://github.com/Suvraneel/NFT-Emporium",
+    "technology_used": "ReactJS,NodeJS,Solidity,Web3JS,Moralis,Chainlink",
+    "project_description": "Lightning NFT Network - A platform that facilitates multi-chain minting of NFTs in blazing speed across multiple ecosystems. This lets people turn their digital art into NFTs in their favorite blockchain without the hassle of writing smart contracts."
+  },
+  {
+    "project_name": "WebDev ProjectKart",
+    "owner_name": "Khushi Purwar",
+    "project_link": "https://github.com/khushi-purwar/WebDev-ProjectKart",
+    "technology_used": "HTML, CSS, JavaScript, ReactJS",
+    "project_description": "This is a beginner-friendly project aiming to help participants to improve their HTML, CSS, JavaScript and React knowledge by contributing as per their preference."
+  },
+  {
+    "project_name": "Elemental 3D",
+    "owner_name": "Shanwill pinto",
+    "project_link": "https://github.com/data-charya/Elemental",
+    "technology_used": "Flutter,MongoDB,NodeJS,REST API",
+    "project_description": "An app built using Flutter which provides you a 3D visualisation of the 118 elements of the periodic table."
+  },
+  {
+    "project_name": "Traffic Sign Recognition",
+    "owner_name": "Debayudh Mitra",
+    "project_link": "https://github.com/debamitr1012/TrafficSignRecognition_PyTorch",
+    "technology_used": "Python, Jupyter, PyTorch, Numpy, Matplotlib",
+    "project_description": "This traffic sign recognition project recognizes the various traffic signs of the GTSRB dataset. It can be implemented through the Heroku website that will recognize each sign."
+  },
+  {
+    "project_name": "URL Minify",
+    "owner_name": "Jyotirmoy Bandyopadhayaya",
+    "project_link": "https://github.com/bravo68web/url-minify",
+    "technology_used": "MongoDB,NextJS,ExpressJS,NodeJS",
+    "project_description": "It is an efficient URL shortener built with multiple features like custom shortcodes, view counts, admin dashboard, and much more."
+  },
+  {
+    "project_name": "GrihSangini",
+    "owner_name": "Avni Uplabdhee",
+    "project_link": "https://github.com/KaizenGirl1111/GSGrihSangini",
+    "technology_used": "MongoDB, ReactJS, ExpressJS, NodeJS",
+    "project_description": "We at GrihSangini aim to connect workers with service buyers. We are a project trying to increase employability for blue-collar workers. We will upskill them, teach them financial literacy and also make them aware about latest government schemes."
+  },
+  {
+    "project_name": "FemSTEM",
+    "owner_name": "Chehak Agrawal",
+    "project_link": "https://github.com/Fem-STEM/FemSTEM-Web-App",
+    "technology_used": "MongoDB, ExpressJS, NodeJS",
+    "project_description": "A web application that serves as an inclusive, supportive tech community focusing strictly on women and non-binaries. Our app offers mentorship opportunities, women-led tutorials, a hall of fame section and an opportunity of finding other female or non-binary teammates."
+  },
+  {
+    "project_name": "techsquad-community-website",
+    "owner_name": "Ronit Banerjee",
+    "project_link": "https://github.com/Tech-Squad-Community/techsquad-community-website",
+    "technology_used": "HTML,CSS,JavaScript,Bootstrap,ExpressJS,NodeJS,ReactJS,TailwindCSS",
+    "project_description": "This is a Community website under development. This community aims to create awareness among the students and working professionals about open source and hackathons to create a difference in society. It'll have study materials, blogs, posts regarding upcoming events and much more so that everyone has access to these opportunities."
+  },
+  {
+    "project_name": "Watch in sync",
+    "owner_name": "Aman Bisht ",
+    "project_link": "https://github.com/FABhishek/WatchPawrii/",
+    "technology_used": "MongoDB,ReactJS,ExpressJS,NodeJS , Socket",
+    "project_description": "Watch in sync is a web application that allows users to watch YouTube videos in-sync with others. A user can create and join rooms, chat with others, and have a video call while streaming YouTube videos altogether."
+  },
+  {
+    "project_name": "GDSC PHCET App",
+    "owner_name": "Rishabh Mehta",
+    "project_link": "https://github.com/DSC-PHCET/gdsc-android-app",
+    "technology_used": "Kotlin, Android, Firebase, Android Jetpack",
+    "project_description": "It is a Community Application of Google Developer Student Club PHCET, which helps the user to check past events, upcoming events, verify certificates, watch event videos, and much more."
+  },
+  {
+    "project_name": " EatMyURL",
+    "owner_name": "Vignesh Shetty",
+    "project_link": "https://github.com/vigneshshettyin/EatMyURL",
+    "technology_used": "MongoDB, ReactJS, ExpressJS, NodeJS, Flutter ",
+    "project_description": "It's a free URL shortener and API. It enables you to shorten and replace a long URL with a short link. You can do much more like track your links, use them for affiliate programs, ads, social websites, emails and text messages."
+  },
+  {
+    "project_name": "Planzap",
+    "owner_name": "Saraswat Majumder",
+    "project_link": "https://github.com/SaraswatGit/PlanZap",
+    "technology_used": "ReactJS , ExpressJS,NodeJS,MySQL",
+    "project_description": "PlanZap is an Open Source  Web - App which enables users to manage their tasks, maintain a movie list , a personal diary as well as notes. There a multiple scopes of improvement in the UI and features of the App that contributors with little knowledge of web development can work upon. "
+  },
+  {
+    "project_name": "IoT-Spot",
+    "owner_name": "Prathima Kadari",
+    "project_link": "https://github.com/prathimacode-hub/IoT-Spot",
+    "technology_used": "C, C++, Python, HTML, CSS, JavaScript",
+    "project_description": "An Amazing Spot to step your foot into this ocean of \"Internet Of things\". The main aim is to provide a cabin that would help you in mastering IoT and making your hands dirty while exploring. Definitely an enriching field that makes you life turn smarter and be more closer to the technology. "
+  },
+  {
+    "project_name": "MrktDB",
+    "owner_name": "Pushpit Bhardwaj",
+    "project_link": "https://github.com/FedgeHund/mrktdb",
+    "technology_used": "MongoDB,Django,ReactJS,Python",
+    "project_description": "MrktDB is a platform for alternative market data and insights into US Hedge Fund holdings that help investors generate alpha. MrktDB aggregates all of 13F data each quarter and bring out exclusive insights that can help users make informed decisions about their investments. \n\nThe Securities and Exchange Commission's (SEC) form 13F is a quarterly report that is required to be filed by all institutional investment managers with at least $100 million in assets under management. It discloses their equity holdings and can provide some insights into what the smart money is doing in the market.\nSmall investors frequently use these filings to determine what the “smart money” is doing in the market, but there are serious problems with the reliability and timeliness of the data.\nThis is where MrktDB comes into picture.\n\nHere users find metrics like:\n1. Most popular stocks across all 13F filers and hedge funds\n2. Emerging favourite stocks across all filers \n3. Stocks falling out of favour among filers\n4. Best performing filers… and much more!"
+  },
+  {
+    "project_name": "CodeIN Community Website",
+    "owner_name": "Saurav Mukherjee",
+    "project_link": "https://github.com/SauravMukherjee44/CodeIN-Community-Website",
+    "technology_used": "HTML, CSS, JavaScript, Bootstrap and SCSS",
+    "project_description": "Open Source Website for CodeIN Community built using HTML, CSS, JavaScript and Bootstrap."
+  },
+  {
+    "project_name": "CSwala-Web",
+    "owner_name": "Rituraj Jain",
+    "project_link": "https://github.com/CSwala/CSwala-website",
+    "technology_used": "ExpressJS,ReactJS,NodeJS,MongoDB,Firebase",
+    "project_description": "I have seen many people emphasizing how you can learn anything from the internet very easily and I also believe that the internet is a great leveler.\nBut the problems are:-\n1)There is no structure of content.\n2) Many options for the same thing sometimes gets overwhelming, which is not a great sign for a beginner in any field.\n3) People claiming themselves the best and then FORCING you to buy their paid service as a free one is incomplete.\n4) Time wastage. We search a lot for good resources and usually end up wasting hours just searching. \n\nKeeping all the above points in mind, I started CSwaala.\nIt is a platform containing all the resources that are required to learn something that's already on the Internet. The benefit is that all these resources are curated by individuals who have already learned the skill, so they know the in and outs and are adding only those resources which really helped them."
+  },
+  {
+    "project_name": "ekatra",
+    "owner_name": "Abheejit",
+    "project_link": "http://github.com/vruksheco/ekatraone",
+    "technology_used": "MongoDB, ExpressJS, ReactJS, NodeJS",
+    "project_description": "Ekatra is a Unified Learning Platform that can help instructors to teach students with little dependence on smartphone devices or the internet.\n\nEkatra is a tool for educators and organizations to deliver learning at scale, combining the power of Text (SMS & Whatsapp), Audio & Video communication. Our learning platform helps such organizations focused on career readiness for underserved high schoolers to teach them important job and life skills."
+  },
+  {
+    "project_name": "json-hub",
+    "owner_name": "Aditya Bisoi",
+    "project_link": "https://github.com/adityabisoi/json-hub",
+    "technology_used": "NodeJS, heroku, Typescript, rest-api, CI/CD",
+    "project_description": "A community-owned REST API service for testers and developers. Fetch provides REST API endpoints for different types of placeholders, which can be easily used during testing and development without the need for creating sample data manually.\n\nIt aims to create a free-for-all REST API service that is open-sourced so that developers can have the ease of making feature requests for a new end-point, or report a security bug. The code should be explicit and easy to contribute to for beginners with no or less apparent knowledge of REST APIs. The standalone API endpoints should be easy to use during development, with minimal setup effort."
+  },
+  {
+    "project_name": "notation-converter",
+    "owner_name": "Aditya Bisoi",
+    "project_link": "https://github.com/adityabisoi/notation-converter",
+    "technology_used": "NodeJS, JavaScript, data-structures, ReactJS, rest-api",
+    "project_description": "Expression parsing is an important concept in computer science, which many students find difficult to understand and solve. Being a core concept in CS, it is a frequently asked question in interviews and coding tests.\nNotification-converter is an application that converts the three notations from one notation to another, and also visualizes the process of conversion. This helps students easily grasp the fundamentals, such as the way of calculation, as well as the data structures used behind the scenes, etc."
+  },
+  {
+    "project_name": "LearnCPP",
+    "owner_name": "Lakhan Kumawat",
+    "project_link": "https://github.com/Lakhankumawat/LearnCPP",
+    "technology_used": "C++, Algorithms, Data-Structures, STL, Problem-solving, Competitive Programming",
+    "project_description": "Learn Cpp from Beginner to Advanced . Practice , Code , Repeat . One step solution for c++ beginners and cp enthusiasts."
+  },
+  {
+    "project_name": "DailyMint",
+    "owner_name": "Himanshu ",
+    "project_link": "https://github.com/DevMan-open-source/dailymint",
+    "technology_used": "MongoDB, ReactJS, ExpressJS, NodeJS",
+    "project_description": "The Objective is to provide real and genuine news to the readers. We aim to create the similar news web app to the Hindustan Times and many more. We also aim to add AI bot to our project."
+  },
+  {
+    "project_name": "CalcHub",
+    "owner_name": "Vashishth Patel",
+    "project_link": "https://github.com/vasu-1/CalcHub",
+    "technology_used": "HTML, CSS, JavaScript, Bootstrap",
+    "project_description": "Do you want to sharpen your web-dev and maths skills ? CalcHub is the place where you can create a unique(in repository) calculator."
+  },
+  {
+    "project_name": "Dev Empire",
+    "owner_name": "Swapnil Srivastava",
+    "project_link": "https://github.com/swapnilsparsh/DevEmpire",
+    "technology_used": "NextJS, ReactJS, SAAS",
+    "project_description": "All in one place where you can find all the resources and details of ambassador/fellowship, open-source events, web dev sites, js toolkits and etc. that are available across different sites. These are verified and crowdsourced by the community."
+  },
+  {
+    "project_name": "Sampoorna",
+    "owner_name": "Shashwat Jaiswal",
+    "project_link": "https://github.com/OpenLake/Sampoorna",
+    "technology_used": "Kotlin, Android",
+    "project_description": "Sampoorna is a one-in-all solution concept revolving around the women who fight one on one with various problems. With it's features encapsulating solutions for majority of the problems faced by modern day women, it is a tool one step ahead of the existing tech-based solutions to the problems."
+  },
+  {
+    "project_name": "30 Days Of JavaScript",
+    "owner_name": "Swapnil Srivastava",
+    "project_link": "https://github.com/swapnilsparsh/30DaysOfJavaScript",
+    "technology_used": "HTML, CSS, JavaScript",
+    "project_description": "Repo containing all the projects made in 30 Days while completing the 30 Days of JavaScript Challenge."
+  },
+  {
+    "project_name": "Python Assistant",
+    "owner_name": "Umesh Singh",
+    "project_link": "https://github.com/Umesh-01/Python-Assistant",
+    "technology_used": "Python, Web Scraping, APIs",
+    "project_description": "Python Assistant (PA) is a voice command based assistant service written in Python 3.9+. It can recognize human speech or voice, talk to user and execute basic commands."
+  },
+  {
+    "project_name": "DoctorVerse",
+    "owner_name": "Rishabh Jain",
+    "project_link": "https://github.com/jain-rishabh-21/DoctorVerse/",
+    "technology_used": "ReactJS,ExpressJS,NodeJS,MongoDB,Git,adobeXD,Figma,Jest",
+    "project_description": "Doctorverse is the marketplace for doctors, hospitals, and healthcare professionals. Find the right doctor for you with our interactive map-based interface. Millions of people trust Doctorverse for their needs, which include finding the clinic closest to them, voting on doctors' quality of service, or asking questions to a doctor online. We're more than just an app; we're your personal healthcare assistant!Doctorverse is the easiest way to find the best doctors and hospitals in your area. We provide you with ratings, reviews, and even give you the option of having a consultation with your doctor online."
+  },
+  {
+    "project_name": "AI Interview system",
+    "owner_name": "Arya Soni",
+    "project_link": "https://github.com/aryasoni98/AI-Interview",
+    "technology_used": "JavaScript, Python, Flask, ReactJS, NodeJS, ML/AI/DL, Docker, AWS",
+    "project_description": "We are building an interface that helps users with a situation by the use of an AI that asks questions on the basis of a code which the aspirant has written, asked from a diverse pack of frequently asked coding questions. Then the AI asks the aspirant questions related to his code and some staple questions. At the end of this experience, the user receives his interview profile showing him his flaws in answering questions, his fluency, and his ability to handle the situation verbally. This can be done on various levels and be stored for future scrutiny by the user. We can also provide a growth curve that helps the aspirant to judge his progress."
+  },
+  {
+    "project_name": "Relating Social Media to Stock Movements",
+    "owner_name": "Vishal Singh Parmar",
+    "project_link": "https://github.com/VishalSinghParmar2001/Relating-Social-Media-to-Stock-Movement-Public",
+    "technology_used": "Python",
+    "project_description": "We explore the application of Machine Learning for predicting the return of the stock by using the information of stock returns. A trading strategy based on this analysis leads to increased trading profits up to three times compared with a simple buy and hold strategy."
+  },
+  {
+    "project_name": "Awesome Chrome Extensions",
+    "owner_name": "Riddhi Suteri",
+    "project_link": "https://github.com/ridsuteri/Awesome-Chrome-Extensions/",
+    "technology_used": "HTML, CSS, JavaScript",
+    "project_description": "collection of awesome custom chrome extensions made using js"
+  },
+  {
+    "project_name": " Chrome-Extension",
+    "owner_name": "Harshita sharma",
+    "project_link": "https://github.com/harshita214/Chrome-Extension",
+    "technology_used": "JavaScript, CSS, HTML, Chrome API",
+    "project_description": "Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!"
+  },
+  {
+    "project_name": "Pacify-A mental health awareness website",
+    "owner_name": "Mansi Prajapati",
+    "project_link": "https://github.com/Hackathon7/Pacify-final",
+    "technology_used": "JavaScript, HTML, CSS, Bootstrap",
+    "project_description": "Pacify website has been made to raise the awareness about mental health in society.\nIt provides various features for instant and effective solution to the problem. Using this will help one to develop good mental habits and develop a positive and healthy mindset."
+  },
+  {
+    "project_name": "Open-Certs-FrontEnd",
+    "owner_name": "Shubham Kumar",
+    "project_link": "https://github.com/open-certs/oc-frontend",
+    "technology_used": "ReactJS, Tailwind CSS, Material-UI, TypeScript",
+    "project_description": "This project aims to certify open source contributions in a form of dApp."
+  },
+  {
+    "project_name": "Open-Certs-Backend",
+    "owner_name": "Shubham Kumar",
+    "project_link": "https://github.com/open-certs/oc-backend",
+    "technology_used": "MongoDB, ExpressJS, NodeJS, EJS",
+    "project_description": "This project aims to certify open source contributions in a form of dApp."
+  },
+  {
+    "project_name": "Open-Certs-Truffle",
+    "owner_name": "Shubham Kumar",
+    "project_link": "https://github.com/open-certs/oc-truffle",
+    "technology_used": "Truffle, Web3JS, Crypto",
+    "project_description": "This project aims to certify open source contributions in a form of dApp."
+  },
+  {
+    "project_name": "Curiomind",
+    "owner_name": "Srijan Kumar Gupta",
+    "project_link": "https://github.com/curiomind-e-learning/curiomind",
+    "technology_used": "MongoDB,ReactJS,ExpressJS,NodeJS,Firebase,TailwindCSS",
+    "project_description": "Curiomind is one stop destination for an ultimate online learning experience. It offers with all of the latest technological tools to make e-learning process smooth and hassle free. Curiomind is an organization developed by the students, for the students. In the era of a raging pandemic, education is one of the domains that has been massively affected, and Curiomind is just a small initiative to help students get back on track and catch up with their academic lives. It offers an array of features including a huge range of courses to choose from, each equipped with a series of lectures, assignments, and tests. On successful completion of a course, students will receive a badge, as a means of encouragement and to provide further inspiration. Say goodbye to unproductive days spent scrolling on your phone, with Curiomind it’s time for you to level up your skills and take a step towards bright career opportunities!"
+  },
+  {
+    "project_name": "CodeSetGo Website",
+    "owner_name": "Agamjot Singh",
+    "project_link": "https://github.com/agamjotsingh18/codesetgo-website ",
+    "technology_used": "ReactJS, MongoDB, NodeJS",
+    "project_description": "CodeSetGo is a community made for the students and made by the students. It's a place for Tech Enthusiasts to learn the latest technology in the comfort and convenience of their homes! It's the community of learners, developers, cryptographers and enthusiastic folks who are engaged toward the brighter future of technology and innovations!\nThe Tech interested students and professionals are all welcomed! We provide the best learning experience and the latest trends of the tech world at your doorsteps from the minds of highly qualified industry professionals.\nWe organise webinars, workshops, boot camps to further spread the learning environment to aspiring students and professionals around us."
+  },
+  {
+    "project_name": "Algoders community website",
+    "owner_name": "Mohit Yadav",
+    "project_link": "https://github.com/mohityadav0903/Algoders-Community",
+    "technology_used": "ReactJS, NodeJS,  Bootstrap, CSS, JSX , JavaScript",
+    "project_description": "We students at Panjab University SSG Regional Centre started a Coding Community named Algoders Community which aims at mentoring freshers and beginners into the world of Computer Science and Technology. We conduct Mentoring Sessions, Daily free classes, Workshops, Webinars and Contests to help students grow their skills. We help students to get started with new and different technologies as well.\nWe are on revolution to bring free tech education to each and every student in India. We made our website to provide free and valuable blogs on common errors which we face daily in our programming life. "
+  },
+  {
+    "project_name": "Dev-Scripts",
+    "owner_name": "Abhijeet Chatterjee",
+    "project_link": "https://github.com/abhijeet007rocks8/Dev-Scripts",
+    "technology_used": "ReactJS, NodeJS, Java, HTML,CSS, Python",
+    "project_description": "This repository is a beginner-friendly repository where devs can contribute their scripts that do some tasks be it a small game, an app, or an amazing and awesome scripts written in Python, JavaScript, Java, Nodejs and many more. The main aim of this repository is to provide utility scripts that could make everyday life easy. Get started with coding exhilarating scripts that can be useful to download PDFs from an Online Source or just to randomly accept bulk linkedin request."
+  },
+  {
+    "project_name": "Ai and ML voice assistant like alexa",
+    "owner_name": "KARUNAKARAN V VIJAYARAGHAVAN",
+    "project_link": "https://github.com/karunakaran186/KAVI-voice-Assitant",
+    "technology_used": "Python.py",
+    "project_description": "How it works:-https://user-images.githubusercontent.com/66834895/152769683-c30646af-9265-41d2-97ab-6ba0d34992a4.mp4"
+  },
+  {
+    "project_name": "PollItUp",
+    "owner_name": "Agamjot Singh",
+    "project_link": "https://github.com/agamjotsingh18/pollitup",
+    "technology_used": "ReactJS, ChakraUI, MongoDB, NodeJS, Firebase",
+    "project_description": "PollItUp is for the Teachers, members of the government, and even concerned citizens can launch polls about problems they are facing to get opinions on the best method to approach the problem. Or, anyone can create polls just for fun!."
+  },
+  {
+    "project_name": "Athena - Article Repository Management System",
+    "owner_name": "Hariket Sukesh Kumar Sheth",
+    "project_link": "https://github.com/hariketsheth/Article_Repository_Management_System",
+    "technology_used": "HTML,CSS,Bootstrap,PHP,MySQL,jQuery,JavaScript,Ajax",
+    "project_description": "In this Tech Savvy era, with lot of advancements in the field of AI, ML, IoT and Deep Learning - People are randomly posting out random, partial and incomplete data on internet. ARMS proposes a Reviewed Article System in which article is published only after review. With added features for visually impaired, ARMS is ready to be implemented"
+  },
+  {
+    "project_name": "e-bureau",
+    "owner_name": "Madiha Mallick",
+    "project_link": "https://github.com/geekymeeky/e-bureau",
+    "technology_used": "MongoDB, NextJS, NodeJS",
+    "project_description": "E- platform used by both public and police for making Crime Management easier. This includes general diary, crime reports and reporting of missing person."
+  },
+  {
+    "project_name": "Openforms ",
+    "owner_name": "Rahul Palve",
+    "project_link": "https://github.com/RahulPalve/openforms",
+    "technology_used": "Flask, ReactJS, Python, MongoDB",
+    "project_description": "The open source online forms for every need, supports integration with Google sheets. "
+  },
+  {
+    "project_name": "ClassDeck",
+    "owner_name": "Jayapritha N",
+    "project_link": "https://github.com/coding-geek21/classDeck",
+    "technology_used": "Django, HTML, JavaScript, CSS, Bootstrap, Sqlite",
+    "project_description": "ClassDeck Online Classroom for students and teachers. ClassDeck aims to create an all in one online classroom platform where Students can attend exams view results, view assignments, submit assignments and do more. Teachers can post tests and view the results as well as post assignments and videos etc. "
+  },
+  {
+    "project_name": "CoinSwap using Cosmwasm and Terraswap",
+    "owner_name": "Prajjwal Chittori",
+    "project_link": "https://github.com/pjdurden/CoinSwap-using-Cosmwasm-and-Terraswap",
+    "technology_used": "Rust,Cosmwasm,TerraMoney,Terra Blockchain,cw-storage-plus,Typescript,JavaScript, TerraSwap,TerraSwaggerAPIs,TerraFinder",
+    "project_description": "CoinSwap is a Smart Contract that is build on the terra blockchain and can be used to swap cryptocurrencies such as LUNA, UST, TerraUSD, Anchor, Mirror Protocol, LUNI and other CW20 tokens. The Project also contains a smart contract which works as a analysis tool for the gas fees on the Terra Blockchain."
+  },
+  {
+    "project_name": "Dezenix",
+    "owner_name": "Jaideep Singh",
+    "project_link": "https://github.com/Dezenix/",
+    "technology_used": "Flutter, ReactJS, HTML CSS, JavaScript, Figma, Adobe",
+    "project_description": "Participants would be required to code the different frontend UIs in different languages like Flutter, React, HTML CSS JS. They just need to build frontend ui part or can as well contribute with some specific components. Participants can also contribute by designing different components or screens for website or mobile for making it better and easier for user."
+  },
+  {
+    "project_name": "SeqAuto",
+    "owner_name": "Gokul Prathin Asamani",
+    "project_link": "https://github.com/gokulprathin8/SeqAuto",
+    "technology_used": "ReactJS, TailwindCSS, Django, Django REST Framework, Python, JavaScript, Selenium, Postgres, Memcached, AWS",
+    "project_description": "Web sequence automation with Selenium & Django. Adding an interactive user interface that accepts test input, runs all test activities, and transmits a video of the tests at the conclusion of the test, as well as generating performance reports, records errors when running test cases, and supports CRON for daily checks."
+  },
+  {
+    "project_name": "Ace-The-FrontEnd",
+    "owner_name": "Suraj Mulchandani",
+    "project_link": "https://github.com/surajm-333/Ace-The-FrontEnd",
+    "technology_used": "HTML,CSS,JavaScript,React,UI Design",
+    "project_description": "Ace-The-FrontEnd contains frontend projects that will help you to become an ace Frontend Developer. If you're a beginner or a frontend expert, you can practice creating these projects and contribute to this repository as a part of open-source programs. The best way to master something is by practical implementation! So what are you waiting for, get started with your contribution to this project."
+  },
+  {
+    "project_name": "Tomper Wear E-commerce",
+    "owner_name": "Varun Tiwari",
+    "project_link": "https://github.com/varunKT001/tomper-wear-ecommerce",
+    "technology_used": "ReactJS,NodeJS,MongoDB,ExpressJS,Firebase",
+    "project_description": "TomperWear is an E-commerce platform for small business owners who want to expand their business by providing an online purchase solution to their customers."
+  }
+]

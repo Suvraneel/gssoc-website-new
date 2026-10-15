@@ -1,33 +1,34 @@
-import React, { useState } from 'react';
-import {accordionData} from './api/FAQdata';
-import DiabloAccordion from '../components/diabloAccordion';
+import Head from "next/head";
+import React, { useState } from "react";
+import { accordionData } from "./api/FAQdata";
+import DiabloAccordion from "../components/diabloAccordion";
 
 function Faq() {
   const [data] = useState(accordionData);
+
   return (
     <>
-    <section className="flex flex-col items-center">
-    <h1 className="font-sans text-center flex flex-col text-orange-500 text-5xl font-bold m-3 underline underline-offset-4 decoration-primary_orange-0">Frequently Asked Questions (FAQS)</h1>
-    < br/ >
-    <div className="flex justify-around md:gap-1 w-11/12">
-      <div className="w-6/12">
-    {
-       data.slice(0, Math.ceil(data.length/2)).map((curElem) => {
-         const { id } = curElem;
-         return <DiabloAccordion key={ id} { ...curElem }/>
-       })
-     }
-     </div>
-     <div className="w-6/12">
-     {
-       data.slice(Math.ceil(data.length/2), data.length).map((curElem) => {
-         const { id } = curElem;
-         return <DiabloAccordion key={ id} { ...curElem }/>
-       })
-     }
+      <Head>
+        <title>
+          FAQs | GirlScript Summer of Code 2022 | GirlScript Foundation India
+        </title>
+        <meta name="description" content="FAQs of GirlScript Summer of Code" />
+      </Head>
+      <>
+      <div className="flex flex-row dark:text-white font-sans text-3xl md:text-5xl text-center font-extrabold flex-wrap justify-center items-center">
+       <h1 className=" underline">
+       <span style={{ color:'#f97316' }}>Frequently Asked Questions</span>
+        </h1>
+      <h1 className="">(FAQs)</h1>
       </div>
-     </div>
-     </section>
+
+
+        <div className="flex flex-col w-full justify-center px-16 mt-20 mb-10">
+          {data.map((curElem) => (
+            <DiabloAccordion key={curElem.id} {...curElem} />
+          ))}
+        </div>
+      </>
     </>
   );
 }

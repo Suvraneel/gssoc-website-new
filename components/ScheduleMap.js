@@ -6,7 +6,7 @@ function Schedule() {
   return (
     <div>
       <div className="p-4 mb-10 flex flex-col">
-        <h1 className="text-4xl text-center  w-fit  ml-50 md:w-2/5 md:text-right dark:text-white text-gray-800 font-semibold mb-6">
+        <h1 className="text-4xl text-center  w-fit md:w-2/5 md:text-right dark:text-white text-gray-800 font-semibold mb-6">
           <span className="text-primary_orange-0 lg:dark:bg-darkmode_gray-0 lg:bg-white text-4xl 2.25rem 3rem pl-10 py-5">
             Schedule{" "}
           </span>

@@ -11,30 +11,25 @@ export const projectData = [
     repo_fullname: "Manthan933/Manthan",
     // project_slack_channel: "proj_blogman",
     github: "https://github.com/Manthan933/Manthan",
-    email: "aavishkarmishra@gmail.com",
     mentors_id: [
       {
         name: "Aavishkar Mishra",
         github: "https://github.com/drcoolsanjeev",
-        email: "aavishkarmishra@gmail.com,",
         // slackId: "",
       },
       {
         name: "Vidisha Kayal",
         github: "https://github.com/PrathamDogra",
-        email: "vidishakayal@gmail.com",
         // slackId: "UTZERSAMQ",
       },
       {
         name: "Abhishek Ranjan",
         github: "https://github.com/ayushi59",
-        email: "iamabhi222@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Deeksha Sharma",
         github: "https://github.com/rajatmw1999",
-        email: "sharmadeeksha325@gmail.com",
         // slackId: "UUCFC5NR3",
       },
     ],
@@ -49,25 +44,21 @@ export const projectData = [
     project_video_link: "https://youtu.be/cEWfIYKSuyw",
     technology_used: "HTML, CSS, Figma, AdobeXD, Illustrator, Framer, Anima",
     github: "https://github.com/awantika10/Desgen",
-    email: "awantikanigam101220@gmail.com",
     repo_fullname: "awantika10/Desgen",
     mentors_id: [
       {
         name: "Aryan Bhardwaj",
         github: "https://github.com/weebo-ary",
-        email: "aryan.bhardwaj1233@gmail.com",
         // slackId: "U019HNX5HPE",
       },
       {
         name: "Shitiz Aggarwal",
         github: "https://github.com/manaswinidas",
-        email: "shitizaggarwal2000@gmail.com",
         // slackId: "UUBT59G5S",
       },
       {
         name: "Shaurya Bhandari",
         github: "https://github.com/aayush-05",
-        email: "shauryabhandari25@gmail.com,",
         // slackId: "",
       },
     ],
@@ -81,24 +72,20 @@ export const projectData = [
       "A platform where the Feminist Bible community can interact by posting their stories, blogs, articles etc. This fullstack web app is built using ReactJS. Feminist Bible is an inclusive space for all. A place where we empathize, acknowledge, and promote diversity by creating an inclusive ecosystem powered by shared stories, culturally sensitive content, and equity-driven community philosophy.",
     technology_used: "React.js, Redux, NodeJS, MongoDB, JavaScript, HTML, CSS",
     repo_fullname: "girlscript/Feminist-Bible-FrontEnd-Phase1",
-    email: "anushkajadhav004@gmail.com",
     mentors_id: [
       {
         name: "Ritish Kr Singh",
         github: "https://github.com/Jayashree-panda",
-        email: "ritish.rks@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Debasmita Das",
         github: "https://github.com/avikantwadhwa",
-        email: "debasmitad76@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Ananya Mahato",
         github: "https://github.com/laveesh",
-        email: "ananyaiit123@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -115,30 +102,25 @@ export const projectData = [
     repo_fullname: "vaibhavirohilla741/Operationalizing-ML",
     // project_slack_channel: "proj_water-monitoring-system",
     github: "https://github.com/vaibhavirohilla741/Operationalizing-ML",
-    email: "vaibhavi.rohilla.cs@ghriet.raisoni.net",
     mentors_id: [
       {
         name: "Sharvari Raut",
         github: "https://github.com/ramanaditya",
-        email: "sharuraut7other@gmail.com",
         // slackId: "UU1KYMFJ5",
       },
       {
         name: "Mainak Chaudhuri",
         github: "https://github.com/ramanaditya",
-        email: "mainakc24365@gmail.com",
         // slackId: "UU1KYMFJ5",
       },
       {
         name: "ARYAN GULATI",
         github: "https://github.com/jainpawan21",
-        email: "aryangulati2810@gmail.com",
         // slackId: "USHSXD0S0",
       },
       {
         name: "Harsh Gupta",
         github: "https://github.com/PragatiVerma18",
-        email: "harshguptaucme@gmail.com",
         // slackId: "USMU0EEJU",
       },
     ],
@@ -155,30 +137,25 @@ export const projectData = [
     repo_fullname: "DSC-JSS-NOIDA/foss-events",
     // project_slack_channel: "proj_bench-routes",
     github: "https://github.com/DSC-JSS-NOIDA/foss-events",
-    email: "itispragativerma@gmail.com",
     mentors_id: [
       {
         name: "Rudrakshi Soni",
         github: "https://github.com/aquibbaig",
-        email: "sonirudrakshi99@gmail.com",
         // slackId: "UUEV2MUK1",
       },
       {
         name: "Akshay Sharma",
         github: "https://github.com/ganeshpatro321",
-        email: "akshaysharma30121999@gmail.com",
         // slackId: "UU9ALEGKX",
       },
       {
         name: "Ruchika Muddinagiri",
         github: "https://github.com/pandyamarut",
-        email: "rrmuddinagiri@gmail.com",
         // slackId: "UU0CQDP5H",
       },
       {
         name: "Shudhanshu Ranjan",
         github: "https://github.com/pandyamarut",
-        email: "sudhanshu03062002@gmail.com",
         // slackId: "UU0CQDP5H",
       },
     ],
@@ -195,24 +172,20 @@ export const projectData = [
     repo_fullname: "akshitagupta15june/Face-X",
     // project_slack_channel: "proj_footsteps-app",
     github: "https://github.com/akshitagupta15june/Face-X",
-    email: "akshitagupta15june@gmail.com",
     mentors_id: [
       {
         name: "Saurabh Shahane",
         // github: "https://github.com/R3l3ntl3ss",
-        email: "saurabhshahane4@gmail.com",
         // slackId: "UUAK5MGL8",
       },
       {
         name: "Paurush Tiwari",
         // github: "https://github.com/praveenscience",
-        email: "mayankbajaj114@gmail.com",
         // slackId: "UU0AK1UQ3",
       },
       {
         name: "Mayank Bajaj",
         // github: "https://github.com/pydevsg",
-        email: "tipaurush@gmail.com",
         // slackId: "UU27ALM89",
       },
     ],
@@ -230,24 +203,20 @@ export const projectData = [
     // project_slack_channel: "proj_jarvis-personal-assistant",
     github:
       "https://github.com/Swarnimashukla/Automatic-attendance-management-system",
-    email: "swara.shukla65@gmail.com",
     mentors_id: [
       {
         name: "Suyash Gautam",
         // github: "https://github.com/C-Anirudh",
-        email: "suyash.gautam97@gmail.com",
         // slackId: "UU91W1BT2",
       },
       {
         name: "Sarath Kaul",
         // github: "https://github.com/ananyaarun",
-        email: "kaul.sarath@gmail.com",
         // slackId: "UUCJ157U5",
       },
       {
         name: "Bhubesh SR",
         // github: "https://github.com/lalitmee",
-        email: "bhubesh2k19@gmail.com",
         // slackId: "UUBRBNDAQ",
       },
     ],
@@ -266,30 +235,25 @@ export const projectData = [
     repo_fullname: "srimani-programmer/Breast-Cancer-Predictor",
     // project_slack_channel: "proj_algodsnotes",
     github: "https://github.com/srimani-programmer/Breast-Cancer-Predictor",
-    email: "srimanikantapalakollu@gmail.com",
     mentors_id: [
       {
         name: "SaiVardhan Poloju",
         // github: "https://github.com/Vaibhavraj10",
-        email: "saivardhanpoloju326@gmail.com",
         // slackId: "UTYUV9X6W",
       },
       {
         name: "Sandip Palit",
         // github: "http://github.com/singh-shreya6",
-        email: "sandippalit009@gmail.com",
         // slackId: "UU134H2QJ",
       },
       {
         name: "Niket kumar dheeryan",
         // github: "http://github.com//MastersAbh",
-        email: "Nkdheeryan01@gmail.com",
         // slackId: "UU5DN4G1X",
       },
       {
         name: "Anustup Mukherjee",
         // github: "http://github.com//MastersAbh",
-        email: "anustup.mukherjee99@gmail.com",
         // slackId: "UU5DN4G1X",
       },
     ],
@@ -306,7 +270,6 @@ export const projectData = [
     repo_fullname: "mishraaditya595/ScanIt",
     // project_slack_channel: "proj_mapbot",
     github: "https://github.com/mishraaditya595/ScanIt",
-    email: "mishraaditya595@gmail.com",
     mentors_id: [
       {
         name: "Priya Pandya",
@@ -317,13 +280,11 @@ export const projectData = [
       {
         name: "Dhruv Baliyan",
         // github: "https://github.com/devish2",
-        email: "dhruvbaliyan1001@gmail.com",
         // slackId: "UUCA79SHK",
       },
       {
         name: "Yashaswi Biyahut",
         // github: "https://github.com/athityakumar",
-        email: "yashaswibiyahut25@gmail.com",
         // slackId: "UUBR827DE",
       },
     ],
@@ -340,24 +301,20 @@ export const projectData = [
     repo_fullname: "purnima143/Kurakoo",
     // project_slack_channel: "proj_whatsapp-play",
     github: "https://github.com/purnima143/Kurakoo",
-    email: "purnimasharma747359@gmail.com",
     mentors_id: [
       {
         name: "Vivekkumar Javiya",
         // github: "https://github.com/xandao6",
-        email: "codewithvk256@gmail.com",
         // slackId: "UU86919FA",
       },
       {
         name: "Ahmed Mawia",
         // github: "https://github.com/nileshpatra",
-        email: "ahmedmawia.dev@gmail.com",
         // slackId: "UU276H3AM",
       },
       {
         name: "Ishu Raj",
         // github: "https://github.com/Bhupesh-V",
-        email: "ishuraj2010@gmail.com",
         // slackId: "UUEA9F80P",
       },
     ],
@@ -376,18 +333,15 @@ export const projectData = [
     repo_fullname: "ALPHAVIO/WordNook",
     // project_slack_channel: "proj_ovuli",
     github: "https://github.com/ALPHAVIO/WordNook",
-    email: "pranavmendi@gmail.com",
     mentors_id: [
       {
         name: "Rushan Khan",
         // github: "https://github.com/ayushi59",
-        email: "rushan.khan2000@gmail.com",
         // slackId: "US6T24335",
       },
       {
         name: "Ananya Negi",
         // github: "https://github.com/ayushi59",
-        email: "ananya4negi@gmail.com",
         // slackId: "UUESFUNAK",
       },
     ],
@@ -404,30 +358,25 @@ export const projectData = [
     repo_fullname: "DSC-JSS-NOIDA/Plasma-Donor-App",
     // project_slack_channel: "proj_techtonica-curriculum",
     github: "https://github.com/DSC-JSS-NOIDA/Plasma-Donor-App",
-    email: "dscjssnoida@gmail.com",
     mentors_id: [
       {
         name: "Nakul Sharma",
         // github: "https://github.com/alodahl",
-        email: "rnqnkl@gmail.com",
         // slackId: "UUH7XPBNY",
       },
       {
         name: "Anukul Kumar",
         // github: "https://github.com/Kundan28",
-        email: "anukulsingh2403@gmail.com",
         // slackId: "UTZD6DGH0",
       },
       {
         name: "Raghav",
         // github: "https://github.com/Aayush-1999",
-        email: "raghav912000@gmail.com",
         // slackId: "UU1K7781Z",
       },
       {
         name: "Hitesh Sahu",
         // github: "https://github.com/Aayush-1999",
-        // email: "N/A",
         // slackId: "UU1K7781Z",
       },
     ],
@@ -444,30 +393,25 @@ export const projectData = [
     repo_fullname: "smaranjitghose/doc2pen",
     // project_slack_channel: "proj_travel-safe",
     github: "https://github.com/smaranjitghose/doc2pen",
-    email: "anushbhatia1234@gmail.com",
     mentors_id: [
       {
         name: "Mohit Raj",
         // github: "https://github.com/tanmayrauth",
-        email: "mohitraj772002@gmail.com",
         // slackId: "UTU8VV7PV",
       },
       {
         name: "Darsh Shah",
         // github: "https://github.com/ankitshaw",
-        email: "imdarshshah@gmail.com",
         // slackId: "UUB642TCM",
       },
       {
         name: "Harshita Kanal",
         // github: "https://github.com/samrat19",
-        email: "harshita.kgv@gmail.com",
         // slackId: "UUFAPKVSS",
       },
       {
         name: "Pankti Shah",
         // github: "https://github.com/bharatmk257",
-        email: "pankti.career@gmail.com",
         // slackId: "UU240MRED",
       },
     ],
@@ -484,30 +428,25 @@ export const projectData = [
     repo_fullname: "himanshusharma89/relic_bazaar",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/himanshusharma89/relic_bazaar",
-    email: "contact@himanshusharma.tech",
     mentors_id: [
       {
         name: "Ishan Sharma",
         // github: "https://github.com/Jayashree-panda",
-        email: "ishandeveloper@outlook.com",
         // slackId: "UUC8L15G8",
       },
       {
         name: "Smaranjit Ghose",
         // github: "https://github.com/avikantwadhwa",
-        email: "anushbhatia1234@gmail.com",
         // slackId: "UTZH4BELS",
       },
       {
         name: "Anush Bhatia",
         // github: "https://github.com/laveesh",
-        email: "smaranjitghose@protonmail.com",
         // slackId: "UU0PYRJ3V",
       },
       {
         name: "Rishabh Raizada",
         // github: "https://github.com/harsha-iiiv",
-        email: "rishabh5102000@gmail.com",
         // slackId: "UUE2B5JHM",
       },
     ],
@@ -524,48 +463,40 @@ export const projectData = [
     repo_fullname: "Algo-Phantoms/Algo-Tree",
     // project_slack_channel: "Ignitus",
     github: "https://github.com/Algo-Phantoms/Algo-Tree",
-    email: "vatsalkesarwani12@gmail.com",
     mentors_id: [
       {
         name: "Tarun Yadav",
         // github: "https://github.com/debck",
-        email: "yadavtarun2015@gmail.com",
         // slackId: "UUE64P9TQ",
       },
       {
         name: "Shreyans Poddar",
         // github: "https://github.com/vidushi-agarwal",
-        email: "shreyans2000@gmail.com",
         // slackId: "UTZGV6E9G",
       },
       {
         name: "Ojus Rastgi",
         // github: "https://github.com/Ishneet09",
-        email: "ojuswimail@gmail.com",
         // slackId: "UUCC7FEDN",
       },
       {
         name: "Nakul sharma",
         // github: "https://github.com/gittysachin",
-        email: "rnqnkl@gmail.com",
         // slackId: "UUB9491EG",
       },
       {
         name: "Anjul Singh",
         // github: "https://github.com/debck",
-        email: "anjul2000@yahoo.in",
         // slackId: "UUE64P9TQ",
       },
       {
         name: "Raksha Jain",
         // github: "https://github.com/vidushi-agarwal",
-        email: "raksha009btcse19@igdtuw.ac.in",
         // slackId: "UTZGV6E9G",
       },
       {
         name: "Rudrakshi Soni",
         // github: "https://github.com/vidushi-agarwal",
-        email: "sonirudrakshi99@gmail.com",
         // slackId: "UTZGV6E9G",
       },
     ],
@@ -582,24 +513,20 @@ export const projectData = [
     repo_fullname: "Algo-Phantoms/Algo-Phantoms-Android",
     // project_slack_channel: "proj_barview-android",
     github: "https://github.com/Algo-Phantoms/Algo-Phantoms-Android",
-    email: "dheeraj.kotwani41@gmail.com",
     mentors_id: [
       {
         name: "Nakul Sharma",
         // github: "https://github.com/SaumyaSingh1",
-        email: "rnqnkl@gmail.com",
         // slackId: "US8GLJ6KZ",
       },
       {
         name: "Sidhant",
         // github: "https://github.com/ShivangiSingh17",
-        email: "carotkut12@gmail.com",
         // slackId: "US5P4SN2W",
       },
       {
         name: "Aitik Dandapat",
         // github: "https://github.com/vikasgola",
-        email: "aitik2000@gmail.com",
         // slackId: "UUB95B4UC",
       },
     ],
@@ -616,24 +543,20 @@ export const projectData = [
     repo_fullname: "Algo-Phantoms/Algo-Phantoms-Backend",
     // project_slack_channel: "proj_plant-disease-webapp",
     github: "https://github.com/Algo-Phantoms/Algo-Phantoms-Backend",
-    email: "shubhijaiswal2000@gmail.com",
     mentors_id: [
       {
         name: "Prajul Gupta",
         // github: "https://github.com/Ishaan28malik",
-        email: "prajulgupta2000@gmail.com",
         // slackId: "UTZFZU0F4",
       },
       {
         name: "Hetal Mangukia",
         // github: "https://github.com/ShubhikaBhardwaj",
-        email: "Hetal.Mangukia@digitalmainstreet.ca",
         // slackId: "UUBT86BT6",
       },
       {
         name: "Harsh Kumar",
         // github: "https://github.com/Devang-25",
-        email: "harshkumar9.in@gmail.com",
         // slackId: "UU3BZQWEM",
       },
     ],
@@ -650,30 +573,25 @@ export const projectData = [
     repo_fullname: "Algo-Phantoms/Algo-ScriptML",
     // project_slack_channel: "proj_the-vision",
     github: "https://github.com/Algo-Phantoms/Algo-ScriptML",
-    email: "adityaastranaut@gmail.com",
     mentors_id: [
       {
         name: "Kritka Parmar",
         // github: "https://github.com/tanisha03",
-        email: "tipaurush@gmail.com",
         // slackId: "URTT487KL",
       },
       {
         name: "Yukti Sachdeva",
         // github: "https://github.com/tanisha03",
-        email: "yukti845@gmail.com",
         // slackId: "URTT487KL",
       },
       {
         name: "Paurush Tiwari",
         // github: "https://github.com/sgpritam",
-        email: "kprogrammer07@gmail.com",
         // slackId: "US566NB0S",
       },
       {
         name: "Ashwani Rathee",
         // github: "https://github.com/satyajiit",
-        email: "ab669522@gmail.com",
         // slackId: "UUBP7SP5K",
       },
     ],
@@ -690,36 +608,30 @@ export const projectData = [
     repo_fullname: "Algo-Phantoms/Algo-Phantoms-Frontend",
     // project_slack_channel: "proj_the-vision",
     github: "https://github.com/Algo-Phantoms/Algo-Phantoms-Frontend",
-    email: "manshitodi@gmail.com",
     mentors_id: [
       {
         name: "Shruti Agarwal",
         // github: "https://github.com/tanisha03",
-        email: "mail2shruti.ag@gmail.com",
         // slackId: "URTT487KL",
       },
       {
         name: "RAVI KUMAR",
         // github: "https://github.com/sgpritam",
-        email: "ravi14577@gmail.com",
         // slackId: "US566NB0S",
       },
       {
         name: "Harikesh Pallantla",
         // github: "https://github.com/satyajiit",
-        email: "p.harikesh409@gmail.com",
         // slackId: "UUBP7SP5K",
       },
       {
         name: "Adyasha Mohanty, Saswat",
         // github: "https://github.com/satyajiit",
-        // email: "p.harikesh409@gmail.com",
         // slackId: "UUBP7SP5K",
       },
       {
         name: "Saswat",
         // github: "https://github.com/satyajiit",
-        // email: "p.harikesh409@gmail.com",
         // slackId: "UUBP7SP5K",
       },
     ],
@@ -736,30 +648,25 @@ export const projectData = [
     repo_fullname: "geekquad/Image-Processing-OpenCV",
     // project_slack_channel: "proj_the-vision",
     github: "https://github.com/geekquad/Image-Processing-OpenCV",
-    email: "adityaastranaut@gmail.com",
     mentors_id: [
       {
         name: "Kritika Parmar",
         // github: "https://github.com/tanisha03",
-        email: "kprogrammer07@gmail.com",
         // slackId: "URTT487KL",
       },
       {
         name: "Unnati",
         // github: "https://github.com/sgpritam",
-        email: "chhabraunnati324@gmail.com",
         // slackId: "US566NB0S",
       },
       {
         name: "Aanisha Bhattacharyya",
         // github: "https://github.com/satyajiit",
-        email: "aanishabhattacharyya@gmail.com",
         // slackId: "UUBP7SP5K",
       },
       {
         name: "Vaishnavi Dwivedi",
         // github: "https://github.com/TeAmp0is0N",
-        email: "vaishdw2207@gmail.com",
         // slackId: "UTZCYBVB4",
       },
     ],
@@ -776,30 +683,25 @@ export const projectData = [
     repo_fullname: "kritikaparmar-programmer/HealthCheck",
     // project_slack_channel: "proj_cropai",
     github: "https://github.com/kritikaparmar-programmer/HealthCheck",
-    email: "kritikaparmar07@gmail.com",
     mentors_id: [
       {
         name: "Manan Bedi",
         // github: "https://github.com/gshanbhag525",
-        email: "mananbedilps@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Heflin Stephen Raj S",
         // github: "https://github.com/Sulekhiya",
-        email: "info@heflin.dev",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Utkarsh Mishra",
         // github: "https://github.com/rajats98",
-        email: "utkarsh07022000@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Shubhangi Gupta",
         // github: "https://github.com/tanishq9",
-        email: "shubhigupta991@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -817,24 +719,20 @@ export const projectData = [
     repo_fullname: "smaranjitghose/DocLense",
     // project_slack_channel: "proj_cropai",
     github: "https://github.com/smaranjitghose/DocLense",
-    email: "anushbhatia1234@gmail.com",
     mentors_id: [
       {
         name: "Akshima Ghai",
         // github: "https://github.com/gshanbhag525",
-        email: "akshimaghai11@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Arteev Raina",
         // github: "https://github.com/Sulekhiya",
-        email: "arteevraina@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Ishita keshawani",
         // github: "https://github.com/rajats98",
-        email: "ishitakeshawani@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -851,30 +749,25 @@ export const projectData = [
     repo_fullname: "CoinShift-Imaging/CoinShift-Imaging-Box",
     // project_slack_channel: "proj_cropai",
     github: "https://github.com/CoinShift-Imaging/CoinShift-Imaging-Box",
-    email: "daydreamingguy941@gmail.com",
     mentors_id: [
       {
         name: "Sanjiban Sengupta",
         // github: "https://github.com/gshanbhag525",
-        email: "sanjiban.sg@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Pratyush Raj",
         // github: "https://github.com/gshanbhag525",
-        email: "pratyushraj2f@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "RISHIKESH RAJ",
         // github: "https://github.com/Sulekhiya",
-        email: "rishikeshrajrxl@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Kushagra Bansal",
         // github: "https://github.com/rajats98",
-        email: "kushagrabansalajmer@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -891,36 +784,30 @@ export const projectData = [
     repo_fullname: "avinashkranjan/Friday",
     // project_slack_channel: "proj_cropai",
     github: "https://github.com/avinashkranjan/Friday",
-    email: "ranjan.avinash@hotmail.com",
     mentors_id: [
       {
         name: "Haresh Nayak",
         // github: "https://github.com/gshanbhag525",
-        email: "hareshnayak018@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Aadhitya A",
         // github: "https://github.com/gshanbhag525",
-        email: "aadhitya864@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Himesh Nayak",
         // github: "https://github.com/Sulekhiya",
-        email: "himeshnayak015@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Oshi Gupta",
         // github: "https://github.com/rajats98",
-        email: "oshiagupta36@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Vatsal Verma",
         // github: "https://github.com/rajats98",
-        email: "vatsal22072001@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -937,24 +824,20 @@ export const projectData = [
     repo_fullname: "himanshu007-creator/SFC-foundations",
     // project_slack_channel: "proj_awesome-react-modules",
     github: "https://github.com/himanshu007-creator/SFC-foundations",
-    email: "addyjeridiq@gmail.com",
     mentors_id: [
       {
         name: "Divya Shukla",
         // github: "https://github.com/yellowwoods12",
-        email: "divyashukla20993@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "HARSHITA VERMA",
         // github: "https://github.com/arpit9667",
-        email: "hv230915@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Shivam Singh",
         // github: "https://github.com/AdityaSrivast",
-        email: "shivam152002@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -971,42 +854,35 @@ export const projectData = [
   //   repo_fullname: "RocketMeet",
   //   // project_slack_channel: "proj_awesome-react-modules",
   //   github: "https://github.com/RocketMeet",
-  //       email: "anandbaburajan@gmail.com",
   //   mentors_id: [
   //     {
   //       name: "Muhammed Suhail",
   //       // github: "https://github.com/yellowwoods12",
-  //       email: "msuhailbh07@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Anaswara T Rajan",
   //       // github: "https://github.com/arpit9667",
-  //       email: "anaswaratrajan@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Vipin K P",
   //       // github: "https://github.com/AdityaSrivast",
-  //       email: "kpvipin33@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Aravind K S",
   //       // github: "https://github.com/amanintech",
-  //       email: "aravindkadaikattu@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Athul Joshi",
   //       // github: "https://github.com/amanintech",
-  //       email: "athuljoshi7@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Anand Baburajan",
   //       // github: "https://github.com/amanintech",
-  //       email: "anandbaburajan@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     }
   //   ],
@@ -1025,30 +901,25 @@ export const projectData = [
     // project_slack_channel: "proj_awesome-react-modules",
     github:
       "https://github.com/PetalsOnWind/Statistics-and-Econometrics-for-Data-Science",
-    email: "pankhurisaxena.iitkgp@gmail.com",
     mentors_id: [
       {
         name: "Anushka Thakkar",
         // github: "https://github.com/yellowwoods12",
-        email: "anushkathakkar01@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Anil Kumar",
         // github: "https://github.com/arpit9667",
-        email: "anil.khadwal@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Tarushi Pathak",
         // github: "https://github.com/AdityaSrivast",
-        email: "tarushipathak@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Rishabh Agarwal",
         // github: "https://github.com/amanintech",
-        email: "rishabh5530@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -1065,30 +936,25 @@ export const projectData = [
   //   repo_fullname: "Srimathij/Indra_Bot",
   //   // project_slack_channel: "proj_awesome-react-modules",
   //   github: "https://github.com/Srimathij/Indra_Bot",
-  //       email: "srimathijagadeesan51@gmail.com",
   //   mentors_id: [
   //     {
   //       name: "Aadhitya A",
   //       // github: "https://github.com/yellowwoods12",
-  //       email: "aadhitya864@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Tamanna Verma",
   //       // github: "https://github.com/arpit9667",
-  //       email: "tamannav01@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Bhavita N",
   //       // github: "https://github.com/AdityaSrivast",
-  //       email: "nbhavita24@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //     {
   //       name: "Hritik Bhandari",
   //       // github: "https://github.com/amanintech",
-  //       email: "bhandari.hritik@gmail.com",
   //       // slackId: "UUCRFPAJU",
   //     },
   //   ],
@@ -1105,24 +971,20 @@ export const projectData = [
     repo_fullname: "dscciem/Pentesting-and-Hacking-Scripts",
     // project_slack_channel: "proj_root-the-box-ctf-framework",
     github: "https://github.com/dscciem/Pentesting-and-Hacking-Scripts",
-    email: "ranjan.avinash@hotmail.com",
     mentors_id: [
       {
         name: "Minhajul Hossain",
         // github: "https://github.com/sammy1997",
-        email: "minhajulhossain@gmail.com",
         // slackId: "UU2MVSB5F",
       },
       {
         name: "Wable Sanket",
         // github: "https://github.com/shashank-sharma",
-        email: "Sanketwable123@gmail.com",
         // slackId: "UUCH4BL4C",
       },
       {
         name: "Pushpendra Vishwakarma",
         // github: "https://github.com/dubesar",
-        email: "pushpendra.hpx2001@gmail.com",
         // slackId: "UUBBGDMT6",
       },
     ],
@@ -1140,60 +1002,50 @@ export const projectData = [
     repo_fullname: "TesseractCoding/NeoAlgo",
     // project_slack_channel: "proj_bookuploaderbot",
     github: "https://github.com/TesseractCoding/NeoAlgo",
-    email: "harsh@tesseractcoding.com",
     mentors_id: [
       {
         name: "Abhinav Anand",
         // github: "https://github.com/rajat2502",
-        email: "manasgmishra@gmail.com",
         // slackId: "US56CEN1G",
       },
       {
         name: "Bhavishya Pandit",
         // github: "https://github.com/Parikshit-Hooda",
-        email: "bhavishyapandit9@gmail.com",
         // slackId: "UUBSF469E",
       },
       {
         name: "Ganesh Tiwari",
         // github: "https://github.com/rkpattnaik780",
-        email: "ganesht049@gmail.com",
         // slackId: "UTZGCD8TU",
       },
       {
         name: "Rajiv Singh",
         // github: "https://github.com/ankitjena",
-        email: "rajivperfect007@gmail.com",
         // slackId: "UU241LQAV",
       },
       {
         name: "Syed Farhan Ahmed",
         // github: "https://github.com/mksharma1",
-        email: "farhan.tuba@gmail.com",
         // slackId: "UU1NGUNAD",
       },
       {
         name: "Siddharth Pandey",
         // github: "https://github.com/sahilbansal17",
-        email: "siddharth25pandey@gmail.com",
         // slackId: "UU261R1AM",
       },
       {
         name: "Anush Krishna M",
         // github: "https://github.com/sahilbansal17",
-        email: "anush.venkatakrishna@gmail.com",
         // slackId: "UU261R1AM",
       },
       {
         name: "Apoorve Goyal",
         // github: "https://github.com/sahilbansal17",
-        email: "apoorve73@gmail.com",
         // slackId: "UU261R1AM",
       },
       {
         name: "Ankit Aggarwal",
         // github: "https://github.com/sahilbansal17",
-        email: "ankitaggarwal1274@gmail.com",
         // slackId: "UU261R1AM",
       },
     ],
@@ -1211,24 +1063,20 @@ export const projectData = [
     repo_fullname: "ChetnaNSharma/Alumni-Connect",
     // project_slack_channel: "proj_spotify-recommendation-engine",
     github: "https://github.com/ChetnaNSharma/Alumni-Connect",
-    email: "chetna.ns.sharma@gmail.com",
     mentors_id: [
       {
         name: "Yash Rameshbhai Patel",
         // github: "https://github.com/kashishmadan",
-        email: "yashramesh982000@gmail.com",
         // slackId: "UUCAYDALV",
       },
       {
         name: "Mohit Sharma",
         // github: "https://github.com/AgentFabulous",
-        email: "mohit1999sh@gmail.com",
         // slackId: "UU28ED5TK",
       },
       {
         name: "Yash Garg",
         // github: "https://github.com/roshniram",
-        email: "yashgarg5101@gmail.com",
         // slackId: "",
       },
     ],
@@ -1250,24 +1098,20 @@ export const projectData = [
     repo_fullname: "cod-ed/simulate",
     // project_slack_channel: "proj_bossy",
     github: "https://github.com/cod-ed/simulate",
-    email: "garg.y2001@gmail.com",
     mentors_id: [
       {
         name: "Yash Lamba",
         // github: "https://github.com/suhanichawla",
-        email: "yashlamba2000@gmail.com",
         // slackId: "UUEGWB2VC",
       },
       {
         name: "Saksham Arora",
         // github: "https://github.com/theprover97",
-        email: "sakshamarora1001@gmail.com",
         // slackId: "",
       },
       {
         name: "Vatsal Kulshreshtha",
         // github: "https://github.com/somyaranjan26",
-        email: "vatsalkulshreshtha@gmail.com",
         // slackId: "UU0RVA4V9",
       },
     ],
@@ -1284,24 +1128,20 @@ export const projectData = [
     repo_fullname: "infiniteoverflow/Libro",
     // project_slack_channel: "proj_simulate",
     github: "https://github.com/infiniteoverflow/Libro",
-    email: "aswingopinathan1871@gmail.com",
     mentors_id: [
       {
         name: "Pratyush M",
         // github: "https://github.com/sakshamarora1",
-        email: "mpratyush2008@gmail.com",
         // slackId: "UTXQ2K5S5",
       },
       {
         name: "Aditya Thakur",
         // github: "https://github.com/shreyamalviya",
-        email: "adityathakurxd@gmail.com",
         // slackId: "UU8P3TL2C",
       },
       {
         name: "Souvik de",
         // github: "https://github.com/Akanksha1212",
-        email: "souvikde.ns@gmail.com",
         // slackId: "UTYUXJPGA",
       },
     ],
@@ -1320,24 +1160,20 @@ export const projectData = [
     repo_fullname: "shagun25/SheHeroes",
     // project_slack_channel: "proj_ambsql",
     github: "https://github.com/shagun25/SheHeroes",
-    email: "goyalshagun25@gmail.com",
     mentors_id: [
       {
         name: "Aish Jain",
         //   github: "https://github.com/IHackPy",
-        email: "aish.96jain@gmail.com",
         //   slackId: "UUCRFPAJU",
       },
       {
         name: " Pratyush Raj",
         //   github: "https://github.com/17-Vishal",
-        email: "pratyushraj2f@gmail.com",
         //   slackId: "UUCRFPAJU",
       },
       {
         name: "Dishebh",
         //   github: "https://github.com/dikshagoyal26",
-        email: "dishebh27@gmail.com",
         //   slackId: "UUCRFPAJU",
       },
     ],
@@ -1354,24 +1190,20 @@ export const projectData = [
     repo_fullname: "khannakshat7/Elektra",
     // project_slack_channel: "proj_cosmos",
     github: "https://github.com/khannakshat7/Elektra",
-    email: "khannakshat7@gmail.com",
     mentors_id: [
       {
         name: "Unnati Mishra",
         //   github: "https://github.com/iamkunalpitale",
-        email: "unnaticse2019@gmail.com",
         //   slackId: "UUE4J0R1D",
       },
       {
         name: "Jagrit Acharya",
         //   github: "https://github.com/OberoiSahaj",
-        email: "jagritacharya2020@gmail.com",
         //   slackId: "UUCBC8W6L",
       },
       {
         name: "Abhishek Sharma",
         //   github: "https://github.com/Bhawna11agg",
-        email: "sharmaash876@gmail.com",
         //   slackId: "UU0RTFV27",
       },
     ],
@@ -1388,24 +1220,20 @@ export const projectData = [
     repo_fullname: "krayong/Study_Partner",
     // project_slack_channel: "proj_girlscriptcommunityapp",
     github: "https://www.github.com/krayong/Study_Partner",
-    email: "kgourisaria2001@gmail.com",
     mentors_id: [
       {
         name: "Priyal Bhatewara",
         //   github: "https://github.com/swat1998",
-        email: "priyalbhatewara2000@gmail.com",
         //   slackId: "UUCAX8LF2",
       },
       {
         name: "Shivani Kapoor",
         //   github: "https://github.com/anushbhatia",
-        email: "kapoorshivani856@gmail.com",
         //   slackId: "UUE14KJK1",
       },
       {
         name: "Manas Uniyal",
         //   github: "https://github.com/ousnik",
-        email: "manasuniyal100@gmail.com",
         //   slackId: "UTZ5C3XJN",
       },
     ],
@@ -1422,24 +1250,20 @@ export const projectData = [
     repo_fullname: "vigneshshettyin/Flask-Generate-Certificate",
     // project_slack_channel: "proj_footsteps-app",
     github: "https://github.com/vigneshshettyin/Flask-Generate-Certificate",
-    email: "vigneshshetty.in@gmail.com",
     mentors_id: [
       {
         name: "Antariksh Pratham",
         //   github: "https://github.com/R3l3ntl3ss",
-        email: "a.pratham1998@gmail.com",
         //   slackId: "UUAK5MGL8",
       },
       {
         name: "Saloni Gupta",
         //   github: "https://github.com/praveenscience",
-        email: "salonimark7@gmail.com",
         //   slackId: "UU0AK1UQ3",
       },
       {
         name: "Divakar",
         //   github: "https://github.com/pydevsg",
-        email: "rexdivakar@hotmail.com",
         //   slackId: "UU27ALM89",
       },
     ],
@@ -1456,24 +1280,20 @@ export const projectData = [
     repo_fullname: "Namanl2001/MERN-Gurujii-dev",
     // project_slack_channel: "proj_footsteps-app",
     github: "https://github.com/Namanl2001/MERN-Gurujii-dev",
-    email: "namanlakhwani@gmail.com",
     mentors_id: [
       {
         name: "Harshit Gupta",
         //   github: "https://github.com/R3l3ntl3ss",
-        email: "guptaji6489@gmail.com",
         //   slackId: "UUAK5MGL8",
       },
       {
         name: "Sagar Barapatre",
         //   github: "https://github.com/praveenscience",
-        email: "sagarbarapatre.me@gmail.com",
         //   slackId: "UU0AK1UQ3",
       },
       {
         name: "Ashish Kumar",
         //   github: "https://github.com/pydevsg",
-        email: "ashishkumar.cse18@chitkarauniversity.edu.in",
         //   slackId: "UU27ALM89",
       },
     ],
@@ -1491,24 +1311,20 @@ export const projectData = [
     repo_fullname: "vikasdo/Book-Recommendation-Analysis",
     // project_slack_channel: "",
     // github: "vikasdo/Book-Recommendation-Analysis",
-    email: "donthulavikas1999@gmail.com",
     mentors_id: [
       {
         name: "vamsi mudaliar",
         //   github: "https://github.com/Smaranjitghose",
-        email: "vamsimudaliar@gmail.com",
         //   slackId: "UTX0UKMKL",
       },
       {
         name: "Akshay pendyala",
         //   github: "https://github.com/swat1998",
-        email: "akshaypendyala@gmail.com",
         //   slackId: "UUCAX8LF2",
       },
       {
         name: "Kollipara Venkata Naga Hemanth",
         //   github: "https://github.com/ousnik",
-        email: "venkata.nagahemanth2018@vitstudent.ac.in",
         //   slackId: "UTZ5C3XJN",
       },
     ],
@@ -1526,27 +1342,22 @@ export const projectData = [
     repo_fullname: "PoojaMittal2842/Delhi-Tourism",
     // project_slack_channel: "proj_cats_in_tech",
     github: "https://github.com/PoojaMittal2842/Delhi-Tourism",
-    email: "Poojamittal2842@gmail.com",
     mentors_id: [
       {
         name: "Chintu Kumar",
         //   github: "https://github.com/priyadharshinir1894/",
-        email: "chintustacks@gmail.com",
       },
       {
         name: "Konduru Viswanath Akhil",
         //   github: "https://github.com/vermakhushboo",
-        email: "akkhill1910@gmail.com",
       },
       {
         name: "Shiv Sharma",
         //   github: "https://github.com/PrathibhaS",
-        email: "shivsharmavictory@gmail.com",
       },
       {
         name: "Pritam Kumar",
         //   github: "https://github.com/PrathibhaS",
-        email: "pritam1bnk@gmail.com",
       },
     ],
   },
@@ -1563,22 +1374,18 @@ export const projectData = [
     repo_fullname: "Praful932/Kitabe",
     // project_slack_channel: "proj_cats_in_tech",
     github: "https://github.com/Praful932/Kitabe",
-    email: "praful.mohanan@gmail.com",
     mentors_id: [
       {
         name: "Bharat Laxmanbhai Vora",
         //   github: "https://github.com/priyadharshinir1894/",
-        email: "bharatvora814@gmail.com",
       },
       {
         name: "Tanuja Joshi",
         //   github: "https://github.com/vermakhushboo",
-        email: "joshitanuja276@gmail.com",
       },
       {
         name: "Aditya Ashvin",
         //   github: "https://github.com/PrathibhaS",
-        email: "adityaashvin2@gmail.com",
       },
     ],
   },
@@ -1595,30 +1402,25 @@ export const projectData = [
     repo_fullname: "threefreespirited/Jssconnect",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/threefreespirited/Jssconnect",
-    email: "harshitsharma9270@gmail.com",
     mentors_id: [
       {
         name: "Shiva Singhal",
         //   github: "https://github.com/Jayashree-panda",
-        email: "singhalshiva936@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Anushka Garg",
         //   github: "https://github.com/Jayashree-panda",
-        email: "anushkagarg0811@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Shweta Gurnani",
         //   github: "https://github.com/avikantwadhwa",
-        email: "18107@iiitu.ac.in",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Suraj Verma",
         //   github: "https://github.com/laveesh",
-        email: "vsuraj2405@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -1635,24 +1437,20 @@ export const projectData = [
     repo_fullname: "uniauth",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/uniauth",
-    email: "yk.verma2000@gmail.com",
     mentors_id: [
       {
         name: "Yash Kumar Verma",
         //   github: "https://github.com/Jayashree-panda",
-        email: "yk.verma2000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Kishan Kumar",
         //   github: "https://github.com/avikantwadhwa",
-        email: "kishansharma1231@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Sarthak Kundra",
         //   github: "https://github.com/laveesh",
-        email: "sarthakkundra21@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -1670,42 +1468,35 @@ export const projectData = [
     repo_fullname: "Girl-Code-It/Opportunity-Calendar-Frontend",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend",
-    email: "manvityagi770@gmail.com",
     mentors_id: [
       {
         name: "Abdus S. Azad",
         //   github: "https://github.com/Jayashree-panda",
-        email: "abdus@abdus.net",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Suraj Bokade",
         //   github: "https://github.com/avikantwadhwa",
-        email: "a8870969@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Vaishali Thakur",
         //   github: "https://github.com/laveesh",
-        email: "vaishalithakur614@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Deepanshi Dixit",
         //   github: "https://github.com/harsha-iiiv",
-        email: "deepanshi.1224@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
       {
         name: "Vaibhav Kumar",
         //   github: "https://github.com/harsha-iiiv",
-        email: "vaibhavk@iitbhilai.ac.in",
         //   slackId: "UUE2B5JHM",
       },
       {
         name: "Shreya Garg",
         //   github: "https://github.com/harsha-iiiv",
-        email: "shreya00garg@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -1722,30 +1513,25 @@ export const projectData = [
     repo_fullname: "Girl-Code-It/Opportunity-Calendar-Backend",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/Girl-Code-It/Opportunity-Calendar-Backend",
-    email: "manvityagi770@gmail.com",
     mentors_id: [
       // {
       //   name: "Jayshree Panda",
       //   github: "https://github.com/Jayashree-panda",
-      //   email: "jayashreepanda12345@gmail.com ",
       //   slackId: "UUC8L15G8",
       // },
       // {
       //   name: "Avikant Wadhwa",
       //   github: "https://github.com/avikantwadhwa",
-      //   email: "avikantwadhwa@gmail.com",
       //   slackId: "UTZH4BELS",
       // },
       // {
       //   name: "Laveesh  Gupta",
       //   github: "https://github.com/laveesh",
-      //   email: "laveeshgupta@gmail.com",
       //   slackId: "UU0PYRJ3V",
       // },
       // {
       //   name: "Surisetty Harshavardhan",
       //   github: "https://github.com/harsha-iiiv",
-      //   email: "201752039@iiitvadodara.ac.in",
       //   slackId: "UUE2B5JHM",
       // },
     ],
@@ -1764,30 +1550,25 @@ export const projectData = [
     repo_fullname: "CodeTrophs",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/CodeTrophs",
-    email: "aryasoni98@gmail.com",
     mentors_id: [
       {
         name: "Mohd Shoaib Asgar",
         //   github: "https://github.com/Jayashree-panda",
-        email: "shoaib.mca19.du@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Anurag Gupta",
         //   github: "https://github.com/avikantwadhwa",
-        email: "anuraggupta5086@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Soumik Chaudhuri",
         //   github: "https://github.com/laveesh",
-        email: "soumik.chaudhuri2000@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Juhi Gupta",
         //   github: "https://github.com/laveesh",
-        email: "gupta.juhi941999@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -1805,24 +1586,20 @@ export const projectData = [
     repo_fullname: "IndianOpenSourceFoundation/dynamic-cli",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/IndianOpenSourceFoundation/dynamic-cli",
-    email: "ping@iosf.in",
     mentors_id: [
       {
         name: "Gourav",
         //   github: "https://github.com/Jayashree-panda",
-        email: "ping@iosf.in",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Ansh Srivastava",
         //   github: "https://github.com/avikantwadhwa",
-        email: "ansh_srtv@outlook.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Lakshyajit Laxmikant",
         //   github: "https://github.com/laveesh",
-        email: "lakshyajit165@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -1839,30 +1616,25 @@ export const projectData = [
     repo_fullname: "harshcasper/speaked",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/harshcasper/speaked",
-    email: "erbeusgriffincasper@gmail.com",
     mentors_id: [
       {
         name: "Sarthak Kundra",
         //   github: "https://github.com/Jayashree-panda",
-        email: "sarthakkundra21@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Aishwarya Jain",
         //   github: "https://github.com/Jayashree-panda",
-        email: "aish.96jain@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Araika Singh",
         //   github: "https://github.com/avikantwadhwa",
-        email: "araikasingh@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Aakansha Jain",
         //   github: "https://github.com/laveesh",
-        email: "jainaakansha28@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -1878,32 +1650,26 @@ export const projectData = [
     repo_fullname: "CodeFlow201/forestTreesTagging",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/CodeFlow201/forestTreesTagging",
-    email: "aroravaibhav102@gmail.com",
     mentors_id: [
       {
         name: "Gautam Behal",
-        email: "gautambeha20@gmail.com",
       },
       {
         name: "Ritest Singh Soun",
-        email: "sounritesh@gmail.com",
       },
       {
         name: "Ritesh Yadav",
         //   github: "https://github.com/avikantwadhwa",
-        email: "daydreamingguy941@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Sameera S Kashyap",
         //   github: "https://github.com/laveesh",
-        email: "lsameera.s.kashyap@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Vilsi Jain",
         //   github: "https://github.com/harsha-iiiv",
-        email: "Jainvilsi12@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -1921,24 +1687,20 @@ export const projectData = [
     repo_fullname: "rhythm98/Food-Ordering-Application",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/rhythm98/Food-Ordering-Application",
-    email: "rhythm.agrawal98@gmail.com",
     mentors_id: [
       {
         name: "Falguni Raina",
         //   github: "https://github.com/Jayashree-panda",
-        email: "rainadiv01@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Manish Kumar",
         //   github: "https://github.com/avikantwadhwa",
-        email: "Kumarmanishbit@rediffmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Kunal Jain",
         //   github: "https://github.com/laveesh",
-        email: "jainkunal209@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -1953,36 +1715,30 @@ export const projectData = [
     technology_used: "MERN, AWS, React, Node, Express, MongoDB",
     project_video_link: "https://youtu.be/CVwdzeWCgXo",
     repo_fullname: "HITK-TECH-Community/Community-Website",
-    email: "rohitagrl1302@gmail.com",
     mentors_id: [
       {
         name: "Kajol Kumari",
         //   github: "https://github.com/Jayashree-panda",
-        email: "kajolkumarisingh222@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Naman Shankhydhar",
         //   github: "https://github.com/avikantwadhwa",
-        email: "naman.geek@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Mohit Bhat",
         //   github: "https://github.com/laveesh",
-        email: "mbcse50@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Rohit Agarwal",
         //   github: "https://github.com/harsha-iiiv",
-        email: "rohitagrl1302@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
       {
         name: "Yadvi Bhalla",
         //   github: "https://github.com/harsha-iiiv",
-        email: "yadvibhalla2002@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -2000,30 +1756,25 @@ export const projectData = [
     repo_fullname: "CSwala",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/CSwala",
-    email: "rrjain20122000@gmail.com",
     mentors_id: [
       {
         name: "Rituraj Jain",
         //   github: "https://github.com/Jayashree-panda",
-        email: "rrjain20122000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Ritish Kr Singh",
         //   github: "https://github.com/Jayashree-panda",
-        email: "ritish.rks@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Dishit Duggar",
         //   github: "https://github.com/avikantwadhwa",
-        email: "dduggar06@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rachit Gupta",
         //   github: "https://github.com/laveesh",
-        email: "guptarachit2004@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2040,30 +1791,25 @@ export const projectData = [
     repo_fullname: "Vishal-raj-1/Awesome-JavaScript-Projects",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects",
-    email: "rajputvishal33786@gmail.com",
     mentors_id: [
       {
         name: "Harsh Gupta",
         //   github: "https://github.com/Jayashree-panda",
-        email: "hgreatgupta2001@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Riddhi Suteri",
         //   github: "https://github.com/avikantwadhwa",
-        email: "ridsuteri@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rajat Kumar",
         //   github: "https://github.com/laveesh",
-        email: "991rajat@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Urvashi Anand",
         //   github: "https://github.com/laveesh",
-        email: "urvashianand0906@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2080,30 +1826,25 @@ export const projectData = [
     repo_fullname: "girlscript/Girscript-Community-Website",
     // project_slack_channel: "proj_cropai",
     // github: "",
-    email: "community@girlscript.tech",
     mentors_id: [
       {
         name: "Chandrika Deb",
         // github: "https://github.com/gshanbhag525",
-        email: "chandrikadeb7@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Vivekkumar Javiya",
         // github: "https://github.com/Sulekhiya",
-        email: "codewithvk256@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Kajol Kumari,Amisha Agarwal",
         // github: "https://github.com/rajats98",
-        email: "kajolkumarisingh222@gmail.com",
         // slackId: "UUCRFPAJU",
       },
       {
         name: "Amisha Agarwal",
         // github: "https://github.com/rajats98",
-        email: "amishaagarwal1998@gmail.com",
         // slackId: "UUCRFPAJU",
       },
     ],
@@ -2121,24 +1862,20 @@ export const projectData = [
     // project_slack_channel: "proj_mentorfix",
     github:
       "https://github.com/Developer-Student-Clubs-VSSUT-Burla/College-Comrade",
-    email: "altamasbari@gmail.com",
     mentors_id: [
       {
         name: "Akhtar Raja Khan",
         //   github: "https://github.com/Jayashree-panda",
-        email: "aitik2000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Atik Dandapat",
         //   github: "https://github.com/avikantwadhwa",
-        email: "aktarkhn07@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rittik Biswal",
         //   github: "https://github.com/laveesh",
-        email: "rittikbiswal2000@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2155,24 +1892,20 @@ export const projectData = [
     repo_fullname: "Developer-Student-Clubs-VSSUT-Burla/CamOps",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/Developer-Student-Clubs-VSSUT-Burla/CamOps",
-    email: "rittikbiswal2000@gmail.com",
     mentors_id: [
       {
         name: "Altamas Bari",
         //   github: "https://github.com/Jayashree-panda",
-        email: "aitik2000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Atik Dandapat",
         //   github: "https://github.com/avikantwadhwa",
-        email: "aktarkhn07@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Aktar Rajja Khan",
         //   github: "https://github.com/laveesh",
-        email: "altamasbari@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2190,30 +1923,25 @@ export const projectData = [
     repo_fullname: "adityabisoi/REST-fetch",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/adityabisoi/REST-fetch",
-    email: "adityabisoi1999@gmail.com",
     mentors_id: [
       {
         name: "DEVANSHU VASHISHTHA",
         //   github: "https://github.com/Jayashree-panda",
-        email: "sharmadevanshu452@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Namrata Dakua",
         //   github: "https://github.com/avikantwadhwa",
-        email: "namrata.dakua@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Shaurya Agarwal",
         //   github: "https://github.com/laveesh",
-        email: "shauryaag14@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Param Siddharth",
         //   github: "https://github.com/paramsiddharth",
-        email: "contact@paramsid.com",
       },
     ],
   },
@@ -2229,30 +1957,25 @@ export const projectData = [
     repo_fullname: "codezonediitj/pydatastructs",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/codezonediitj/pydatastructs",
-    email: "gdp.1807@gmail.com",
     mentors_id: [
       {
         name: "Rajdeep Ghosh",
         //   github: "https://github.com/Jayashree-panda",
-        email: "ghoshrajdeep2000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Vanshika Garg",
         //   github: "https://github.com/avikantwadhwa",
-        email: "vanshikagarg17@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Smit Lunagariya",
         //   github: "https://github.com/laveesh",
-        email: "smitplunagariya@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Vranda Chag",
         //   github: "https://github.com/harsha-iiiv",
-        email: "chagvranda@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -2269,24 +1992,20 @@ export const projectData = [
     repo_fullname: "FOSS-Cell-GECPKD/pixelvibe",
     // project_slack_channel: "proj_mentorfix",
     // github: "https://github.com/ankitapuri/pixelvibe",
-    email: "puriankita30@gmail.com",
     mentors_id: [
       {
         name: "Rishabh Singhal",
         //   github: "https://github.com/Jayashree-panda",
-        email: "Rishabh.singhal@research.iiit.ac.in",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Adarsh Vulli",
         //   github: "https://github.com/avikantwadhwa",
-        email: "adarshvulli007@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Avinal Kumar",
         //   github: "https://github.com/laveesh",
-        email: "185067@nith.ac.in",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2304,29 +2023,24 @@ export const projectData = [
     repo_fullname: "chiraag-kakar/sharenlearn",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/chiraag-kakar/sharenlearn",
-    email: "ck2222@cse.jgec.ac.in",
     mentors_id: [
       {
         name: "Ayan Banerjee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "ayanbabusona@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Aman Prakash Jha",
         //   github: "https://github.com/avikantwadhwa",
-        email: "ap2301@it.jgec.ac.in",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "A V S ADITYA VARDHAN",
         //   github: "https://github.com/laveesh",
-        email: "avsadityavardhan18bcs@iiitkottayam.ac.in",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "S Harshita",
-        email: "harshita2216@gmail.com",
       },
     ],
   },
@@ -2339,24 +2053,20 @@ export const projectData = [
       "A go-to tool for scanning network with following features:\n 1. Port Scanning\n 2. Token Scanning\n 3. Complete DNS Lookup\n 4. Vulnerability Scanner (SSRF, CSRF, etc.)\n 5. Intercept/Proxy requests.\n\n The idea here is to build an open-source version of Burp suite community edition",
     technology_used: "Python, SQL",
     repo_fullname: "vinitshahdeo/PortScanner",
-    email: "vinitshahdeo@gmail.com",
     mentors_id: [
       {
         name: "Madhav Dihora",
         //   github: "https://github.com/Jayashree-panda",
-        email: "madhavdihora33@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Aditya Rana",
         //   github: "https://github.com/avikantwadhwa",
-        email: "mail2aditya.rana98@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "NITISH AWASTHI",
         //   github: "https://github.com/laveesh",
-        email: "ANITISH.225@GMAIL.COM",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2373,36 +2083,30 @@ export const projectData = [
     repo_fullname: "ayan-biswas0412/gssoc2021-HotelOnTouch",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/ayan-biswas0412/gssoc2021-HotelOnTouch",
-    email: "ayanbiswas184@gmail.com",
     mentors_id: [
       {
         name: "ABHISHEK SINGH",
         //   github: "https://github.com/Jayashree-panda",
-        email: "pratapabhishek0631@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Bhavita Nalli",
         //   github: "https://github.com/Jayashree-panda",
-        email: "rbhavita24@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Sahil Singh",
         //   github: "https://github.com/avikantwadhwa",
-        email: "sahilit27996@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Janvi Mahajan",
         //   github: "https://github.com/laveesh",
-        email: "janvimahajan337@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Abhishek Rajput",
         //   github: "https://github.com/laveesh",
-        email: "rajputabhisekhsingh53@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2420,24 +2124,20 @@ export const projectData = [
     repo_fullname: "CrewMates-Open-Source/EduHelp",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/CrewMates-Open-Source/EduHelp",
-    email: "shankhanil974@gmail.com",
     mentors_id: [
       {
         name: "Gaurav Kumar",
         //   github: "https://github.com/Jayashree-panda",
-        email: "gk74533@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Anshoo Rajput",
         //   github: "https://github.com/avikantwadhwa",
-        email: "rajanshoo25@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Apurva Sharma",
         //   github: "https://github.com/laveesh",
-        email: "apurva.sharma2019@vitstudent.ac.in",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2454,30 +2154,25 @@ export const projectData = [
     repo_fullname: "praveenscience/Internship-LMS-FrontEnd",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    email: "gssoc21@praveen.science",
     mentors_id: [
       {
         name: "Shashwat Mishra",
         //   github: "https://github.com/praveenscience",
-        email: "ampsteric@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Aditya Pahilwani",
         //   github: "https://github.com/praveenscience",
-        email: "aditya.pahilwani@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Tejan Singh",
         //   github: "https://github.com/praveenscience",
-        email: "tstejan@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Aadhitya",
         //   github: "https://github.com/praveenscience",
-        email: "aadhitya864@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2494,25 +2189,20 @@ export const projectData = [
     repo_fullname: "knoldus/leaderboard",
     // project_slack_channel: "proj_mentorfix",
     github: "https://github.com/knoldus/leaderboard",
-    email:
-      "manas.kashyap@knoldus.com , himanshu@knoldus.com , vikas@knoldus.com",
     mentors_id: [
       {
         name: "Himanshu Gupta",
         //   github: "https://github.com/Jayashree-panda",
-        email: "himanshu.gupta@knoldus.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Manas Kashyap",
         //   github: "https://github.com/avikantwadhwa",
-        email: "manas.kashyap@knoldus.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Vikas",
         //   github: "https://github.com/laveesh",
-        //  email: "himanshu.gupta@knoldus.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2529,24 +2219,20 @@ export const projectData = [
   //   repo_fullname: "imrathiii/Hire-Smart",
   //   // project_slack_channel: "proj_mentorfix",
   //   //github: "srrathi/Hire-Smart",
-  //       email: "srrathi2000@gmail.com",
   //   mentors_id: [
   //      {
   //        name: "Anushka Garg",
   //     //   github: "https://github.com/Jayashree-panda",
-  //        email: "anushkagarg0811@gmail.com",
   //     //   slackId: "UUC8L15G8",
   //      },
   //      {
   //        name: "Harshit Jain",
   //     //   github: "https://github.com/avikantwadhwa",
-  //        email: "harshitjain1309@gmail.com",
   //     //   slackId: "UTZH4BELS",
   //      },
   //      {
   //       name: "Shashwat Gupta",
   //    //   github: "https://github.com/avikantwadhwa",
-  //       // email: "",
   //    //   slackId: "UTZH4BELS",
   //     }
   //   ],
@@ -2565,24 +2251,20 @@ export const projectData = [
     repo_fullname: "klarEDA/klar-EDA",
     // project_slack_channel: "proj_mentorfix",
     //github: "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    email: "ashishkshirsagar10@gmail.com",
     mentors_id: [
       {
         name: "Harsha MS",
         //   github: "https://github.com/Jayashree-panda",
-        email: "sridharsha598@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Ishaan Bhallal",
         //   github: "https://github.com/laveesh",
-        email: "ishaanbhallal21@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Rishabh",
         //   github: "https://github.com/laveesh",
-        email: "rishabh5530@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2599,30 +2281,25 @@ export const projectData = [
     repo_fullname: "gokulprathin8/Jaisalmer-E-Commerce",
     // project_slack_channel: "proj_mentorfix",
     //github: "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    email: "gokulprathin8@gmail.com",
     mentors_id: [
       {
         name: "Tanmay Sharma",
         //   github: "https://github.com/Jayashree-panda",
-        email: "927tanmay@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Rajkumar Sony",
         //   github: "https://github.com/Jayashree-panda",
-        email: "raku19mca@cmrit.ac.in",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Vaishnavi Dwivedi",
         //   github: "https://github.com/avikantwadhwa",
-        email: "vaishdw2207@gmail.co",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Deeksha Sharma",
         //   github: "https://github.com/laveesh",
-        email: "sharmadeeksha325@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2639,24 +2316,20 @@ export const projectData = [
     repo_fullname: "vigneshshettyin/Bulk-Mailer",
     // project_slack_channel: "proj_mentorfix",
     //github: "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    email: "vigneshshetty.in@gmail.com",
     mentors_id: [
       {
         name: "Shanwill Pinto",
         //   github: "https://github.com/Jayashree-panda",
-        email: "shanwillpinto@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Raksharaj Shetty",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shettyraksharaj@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Laureen",
         //   github: "https://github.com/laveesh",
-        email: "laureenfernandes212@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2673,24 +2346,20 @@ export const projectData = [
     repo_fullname: "avinashkranjan/Recess",
     // project_slack_channel: "proj_mentorfix",
     //github: "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    email: "ranjan.avinash@hotmail.com",
     mentors_id: [
       {
         name: "Abhishek Srivastava",
         //   github: "https://github.com/Jayashree-panda",
-        email: "abhisheksrivastavabbn@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Eshaan Khurana",
         //   github: "https://github.com/avikantwadhwa",
-        email: "eshaany2k@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Utkarsh Singh",
         //   github: "https://github.com/laveesh",
-        email: "lutkarsh.codes@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2707,30 +2376,25 @@ export const projectData = [
     repo_fullname: "avinashkranjan/lifeMEDeasy",
     // project_slack_channel: "proj_mentorfix",
     //github: "https://github.com/praveenscience/Internship-LMS-FrontEnd",
-    email: "ranjan.avinash@hotmail.com",
     mentors_id: [
       {
         name: "Aastha Jain",
         //   github: "https://github.com/Jayashree-panda",
-        email: "btbtc18095_aastha@banasthali.in",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Nikhil Barik",
         //   github: "https://github.com/avikantwadhwa",
-        email: "nklmarch17@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rahul Gorai",
         //   github: "https://github.com/laveesh",
-        email: "rahul.gorai.3141@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Chetan Banavikalmutt",
         //   github: "https://github.com/harsha-iiiv",
-        email: "chetanrns1997@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -2744,40 +2408,33 @@ export const projectData = [
       "A curated collection of Amazing Python scripts from Basics to Advance with automation task scripts. This is your Personal space to find or add any new script that can make Life Easier for you, as a Developer, and find a utility of coding to burst out of boredom. Get started with coding exhilarating scripts that you can use to download PDFs from an Online Source or just to randomly like everyone's Instagram Post.",
     technology_used: "Python, HTML, CSS, JS",
     repo_fullname: "avinashkranjan/Amazing-Python-Scripts",
-    email: "ranjan.avinash@hotmail.com",
     mentors_id: [
       {
         name: "MANIDIPA BHATTACHARJEE",
         //   github: "https://github.com/Jayashree-panda",
-        email: "manidipa522001@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Santushti Sharma",
         //   github: "https://github.com/avikantwadhwa",
-        email: "sharmasantushti1012@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Antriksh Misri",
         //   github: "https://github.com/laveesh",
-        email: "antrikshmisri@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Kushal Das",
-        email: "daskushal980@gmail.com",
       },
       {
         name: "Kaustubh Gupta",
         //   github: "https://github.com/harsha-iiiv",
-        email: "kaustubhgupta1828@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
       {
         name: "Tamanna Verma",
         //   github: "https://github.com/harsha-iiiv",
-        email: "tamannav01@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -2793,24 +2450,20 @@ export const projectData = [
     technology_used:
       "Next-js, ReactJs, NodeJs, Html, CSS, Javascript, Figma, bootsrap, Material-Ui, Webpack",
     repo_fullname: "Feminine-Divine/periodo",
-    email: "dpskhu13108@gmai.com, vaaishpra19@gmail.com",
     mentors_id: [
       {
         name: "Khushi Gautam",
         //   github: "https://github.com/avikantwadhwa",
-        email: "dpskhu13108@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Shipra Verma",
         //   github: "https://github.com/laveesh",
-        email: "vaaishpra19@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Vritika Vijaylal Naik",
         //   github: "https://github.com/harsha-iiiv",
-        email: "vritikan@gmail.com",
         //   slackId: "UUE2B5JHM",
       },
     ],
@@ -2824,30 +2477,25 @@ export const projectData = [
       "Expanding the domain of the flutter package by adding more animated texts.",
     technology_used: "Flutter",
     repo_fullname: "aagarwal1012/Animated-Text-Kit",
-    email: "aagarwal9782@gmail.com",
     mentors_id: [
       {
         name: "Anthony Whitford",
         //   github: "https://github.com/Jayashree-panda",
-        email: "mail@anthonywhitford.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Darshan Rander",
         //   github: "https://github.com/avikantwadhwa",
-        email: "darshandrander@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Prince Srivastava",
         //   github: "https://github.com/laveesh",
-        email: "prince17.ps6@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Sameera S Kashyap",
         //   github: "https://github.com/laveesh",
-        email: "sameera.s.kashyap@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2863,30 +2511,25 @@ export const projectData = [
     technology_used:
       "React - Frontend, Express - Backend, Socket-IO for Web RTC, Node JS, Javascript, HTML, CSS, Bootstrap, Material UI",
     repo_fullname: "kothariji/SyntaxMeets",
-    email: "kotharidhruv25@gmail.com",
     mentors_id: [
       {
         name: "Neha Parmar",
         //   github: "https://github.com/Jayashree-panda",
-        email: "ehaparmar1899@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Satyam Chaudhary",
         //   github: "https://github.com/avikantwadhwa",
-        email: "17157@iiitu.ac.in",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Sai Satwik Kokanti",
         //   github: "https://github.com/laveesh",
-        email: "saisatwik99@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Ayush Shrivastava",
         //   github: "https://github.com/laveesh",
-        email: "shrivastavayush32@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -2900,30 +2543,25 @@ export const projectData = [
       "Pro_Act provides you with an efficient way of managing your tasks. It works on the principals of divide and conquer, allows the user to enter tasks and then divide them further into sub-tasks and handle them efficiently! Additional features of adding time limit for completion and updating the amount of work that has been completed .Best when working with a large team to be updated of the amount of work done and the amount of work left to be completed .",
     technology_used: "Python, Angular, Django, HTML, Java, C, C++, Rust",
     repo_fullname: "sruti2024/PRO_Act",
-    email: "srutichatterjee2024@gmail.com",
     mentors_id: [
       {
         name: "Enjeck Mbeh Cleopatra",
         //   github: "https://github.com/Jayashree-panda",
-        email: "patrathewhiz@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Prakhar Shreyash",
         //   github: "https://github.com/avikantwadhwa",
-        email: "1905523@kiit.ac.in",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Dharmpal Chaudhary",
         //   github: "https://github.com/avikantwadhwa",
-        email: "chaudharydharmpal95@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Sai Sudha Vadisina",
         //   github: "https://github.com/Jayashree-panda",
-        email: "saisudhavadisina@gmail.com",
         //   slackId: "UUC8L15G8",
       },
     ],
@@ -2938,24 +2576,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: "Javascript,Express Node ,Logo Design, Adobe XD",
     repo_fullname: "ProjectSakura/Mirai",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -2971,32 +2605,27 @@ export const projectData = [
     project_video_link:
       "https://drive.google.com/file/d/1Wp6K0wRsPjxwvTWzIIVIQMqYhe1ZMX_0/view?usp=sharing",
     repo_fullname: "siv2r/kidney-exchange",
-    email: "siv2ram@gmail.com",
     project_slack_channel:
       "https://join.slack.com/t/kidney-exchange/shared_invite/zt-n54e89o7-yB5E6eZl7q3DAvLFdUAwgA",
     mentors_id: [
       {
         name: "D Sivaram",
         //   github: "https://github.com/Jayashree-panda",
-        email: "siv2ram@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Shania Mitra",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shaniamitra9@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Ria Tyagi",
         //   github: "https://github.com/laveesh",
-        email: "riatyagi28@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Priyanshu Agarwal",
         //   github: "https://github.com/laveesh",
-        email: "priyanshuone6@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3010,30 +2639,25 @@ export const projectData = [
       "A platform where the Feminist Bible community can interact by posting their stories, blogs, articles etc. This fullstack web app is built using ReactJS. Feminist Bible is an inclusive space for all. A place where we empathize, acknowledge, and promote diversity by creating an inclusive ecosystem powered by shared stories, culturally sensitive content, and equity-driven community philosophy",
     technology_used: "HTML, CSS(SCSS), React JS, Node JS, Mongo DB",
     repo_fullname: "girlscript/feminist-bible-phase-2",
-    email: "gauravdas014@gmail.com",
     mentors_id: [
       {
         name: "Joshua Poddoku",
         //   github: "https://github.com/Jayashree-panda",
-        email: "joshuapoddoku@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Debasmita Das",
         //   github: "https://github.com/Jayashree-panda",
-        email: "debasmitad76@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Shashank Motruri",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shashank.m19@iiits.in",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Shubhadarshie Nanda",
         //   github: "https://github.com/laveesh",
-        email: "b518045@iiit-bh.ac.in",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3049,30 +2673,25 @@ export const projectData = [
     project_video_link: "https://youtu.be/xELBDOQVUjY",
     repo_fullname: "flow2ml/Flow2ML",
     github: "https://github.com/flow2ml/Flow2ML",
-    email: "vedhakrishnapanchami@gmail.com",
     mentors_id: [
       {
         name: "Chebrolu Bala Sai Harika",
         //   github: "https://github.com/Jayashree-panda",
-        email: "chebroluharika@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Mostafa Wael",
         //   github: "https://github.com/avikantwadhwa",
-        email: "mostafa.w.k000@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Ashwin Kumar Ramaswamy",
         //   github: "https://github.com/laveesh",
-        email: "aashwin515@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Yogita Jaswani",
         //   github: "https://github.com/laveesh",
-        email: "jaswaniyogita@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3087,24 +2706,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/J5emetcite4",
     technology_used: "Python/Django, HTML, CSS (+ Bootstrap 4), JavaScript",
     repo_fullname: "garg3133/JagratiWebApp",
-    email: "priyanshgarg30@gmail.com",
     mentors_id: [
       {
         name: "Tushar Maheshwari",
         //   github: "https://github.com/Jayashree-panda",
-        email: "2019352@iiitdmj.ac.in",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Ajay Sharma",
         //   github: "https://github.com/avikantwadhwa",
-        email: "Ajaykrsharma132@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Vaibhav Mehta",
         //   github: "https://github.com/laveesh",
-        email: "vdmehta36@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3121,24 +2736,20 @@ export const projectData = [
     project_video_link:
       " https://drive.google.com/file/d/11HVgNiAKXNYP_kytF9EGDmZET4DS1C0f/view?usp=drivesdk",
     repo_fullname: "Ayush-projects/chords",
-    email: "kayush479@gmail.com",
     mentors_id: [
       {
         name: "Anush Bhatia",
         //   github: "https://github.com/Jayashree-panda",
-        email: "anushbhatia1234@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Harsh Kumar",
         //   github: "https://github.com/avikantwadhwa",
-        email: "harshkumar9.in@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Priyanka Prasad",
         //   github: "https://github.com/laveesh",
-        email: "priyankaafssulur@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3162,30 +2773,25 @@ export const projectData = [
     technology_used:
       "MongoDb, Express.js , Node.js , React.js , Mongoose, Material  UI ,Framer Motion",
     repo_fullname: "ADRE9/bunk-manager-mern",
-    email: "adrenine13@gmail.com",
     mentors_id: [
       {
         name: "MD Arshad Khan",
         //   github: "https://github.com/Jayashree-panda",
-        email: "kaifee000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Mustafiz Kaifee Mumtaz",
         //   github: "https://github.com/avikantwadhwa",
-        email: "sanyammehendiratta2000@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Sanyam Mehendiratta",
         //   github: "https://github.com/laveesh",
-        email: "adrenine13@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Kunal Jain",
         //   github: "https://github.com/laveesh",
-        email: "jainkunal209@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3200,24 +2806,20 @@ export const projectData = [
     technology_used: "Python, Javascript, Golang, BASH",
     project_video_link: "https://youtu.be/FYvD40kzapM",
     repo_fullname: "harshcasper/rotten-scripts",
-    email: "erbeusgriffincasper@gmail.com",
     mentors_id: [
       {
         name: "Seema Saharan",
         //   github: "https://github.com/Jayashree-panda",
-        email: "seema.saharan1711@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Vybhav Chaturvedi",
         //   github: "https://github.com/avikantwadhwa",
-        email: "sohamshah456@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Soham Shah",
         //   github: "https://github.com/laveesh",
-        email: "vybhavchaturvedi@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3233,24 +2835,20 @@ export const projectData = [
     technology_used:
       "HTML, CSS, JavaScript, React, Bootstrap, Node.js, Express, Socket, Redis,  MongoDB, Jest",
     repo_fullname: "fave77/pbchess",
-    email: "pbiswas101b@gmail.com",
     mentors_id: [
       {
         name: "Aditya Gupta",
         //   github: "https://github.com/Jayashree-panda",
-        email: "adityag.ug19.cs@nitp.ac.in",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Shreya Kapoor",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shreyakapoor98@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Apurv Gupta",
         //   github: "https://github.com/laveesh",
-        email: "apurv3351@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3266,24 +2864,20 @@ export const projectData = [
     technology_used:
       "Python, machine learning, deep learning, frontend developement, backend development",
     repo_fullname: "ashishsahu1/ML-ProjectYard",
-    email: "ashishsahu10428@gmail.com",
     mentors_id: [
       {
         name: "Vaibhav Arora",
         // github: "https://github.com/xandao6",
-        email: "aroravaibhav102@gmail.com",
         // slackId: "UU86919FA",
       },
       {
         name: "Niket kumar Dheeryan",
         // github: "https://github.com/nileshpatra",
-        email: "Nkdheeryan01@gmail.com",
         // slackId: "UU276H3AM",
       },
       {
         name: "Priyanka Gupya",
         // github: "https://github.com/Bhupesh-V",
-        email: "priyagupta55@gmail.com",
         // slackId: "UUEA9F80P",
       },
     ],
@@ -3297,24 +2891,20 @@ export const projectData = [
       "This is a beginner friendly messenger app. Beginners can contribute to this app and improve its features and can even add more functionality. React and firebase are the skills required to contribute to this project. ( If someone knows react native then they can help in development of mobile application of this project )",
     technology_used: "React or react native and Firebase",
     repo_fullname: "DhairyaBahl/React-Messenger-App",
-    email: "dhairyabahl5@gmail.com",
     mentors_id: [
       {
         name: "Aditya Teltia",
         // github: "https://github.com/xandao6",
-        email: "teltia.aditya22@gmail.com",
         // slackId: "UU86919FA",
       },
       {
         name: "Abhijeet Chatterjee",
         // github: "https://github.com/nileshpatra",
-        email: "abhijeet.chatterjee2019@vitbhopal.ac.in",
         // slackId: "UU276H3AM",
       },
       {
         name: "Yash Handa",
         // github: "https://github.com/Bhupesh-V",
-        email: "yashhanda500@gmail.com",
         // slackId: "UUEA9F80P",
       },
     ],
@@ -3329,24 +2919,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/rafmsDzHJOs",
     technology_used: "HTML, CSS, Javascript, PHP",
     repo_fullname: "Spectrum-CETB/LesKollab",
-    email: "rupeshmohanty67@gmail.com",
     mentors_id: [
       {
         name: "Shubham Gautam",
         // github: "https://github.com/xandao6",
-        email: "sg2199203@gmail.com",
         // slackId: "UU86919FA",
       },
       {
         name: "Anika Tibrewala",
         // github: "https://github.com/nileshpatra",
-        email: "anikatibrewala@gmail.com",
         // slackId: "UU276H3AM",
       },
       {
         name: "Sakshi Bhandarkar",
         // github: "https://github.com/Bhupesh-V",
-        email: "sakshi300699.b@gmail.com",
         // slackId: "UUEA9F80P",
       },
     ],
@@ -3361,30 +2947,25 @@ export const projectData = [
     project_video_link: "https://youtu.be/5VXx33iW4MY",
     technology_used: "Flutter, Firebase, REST",
     repo_fullname: "pratyushmp/Batua",
-    email: "mpratyush2008@gmail.com",
     mentors_id: [
       {
         name: "Aswin Gopinathan",
         // github: "https://github.com/xandao6",
-        email: "aswingopinathan1871@gmail.com",
         // slackId: "UU86919FA",
       },
       {
         name: "Arunoday Kumar",
         // github: "https://github.com/nileshpatra",
-        email: "201951031@iiitvadodara.ac.in",
         // slackId: "UU276H3AM",
       },
       {
         name: "Akash Agarwal",
         // github: "https://github.com/Bhupesh-V",
-        email: "akashagarwal41200@gmail.com",
         // slackId: "UUEA9F80P",
       },
       {
         name: "Vartika Dadheech",
         // github: "https://github.com/Bhupesh-V",
-        email: "vartikadadheech14nov@gmail.com",
         // slackId: "UUEA9F80P",
       },
     ],
@@ -3398,24 +2979,20 @@ export const projectData = [
       "Our project i.e a responsive website to help women in panic and unsafe situations. The website has an Emergency button. If the person feels unsafe in any situtation, then they can click on that emergency button and within no time an alert message will be sent to her Trusted contacts with her Location credentials that she is in need of help. Our main aim is to help women with the support of new technologies",
     technology_used: "HTML, CSS, Django",
     repo_fullname: "swapnilsparsh/Rescue",
-    email: "arezona.lucky55@gmail.com",
     mentors_id: [
       {
         name: "Sakshi Khachane",
         // github: "https://github.com/xandao6",
-        email: "asakshi.khachane@gmail.com",
         // slackId: "UU86919FA",
       },
       {
         name: "SEJAL KHANNA",
         // github: "https://github.com/nileshpatra",
-        email: "sejal167kh@gmail.com",
         // slackId: "UU276H3AM",
       },
       {
         name: "Farhan Hai Khan",
         // github: "https://github.com/Bhupesh-V",
-        email: "njrfarhandasilva10@gmail.com",
         // slackId: "UUEA9F80P",
       },
     ],
@@ -3429,24 +3006,20 @@ export const projectData = [
       "The main motive behind the design of this project to provide the best job and internship opportunities. Companies can post here open application for job and internship so students can make own profile and apply in multiple companies.",
     technology_used: "MERN Stack (MongoDB, Express Js, React Js, Node.js",
     repo_fullname: "pankajkumarbij/easy-job-intern",
-    email: "pankajbijarniya2004@gmail.com",
     mentors_id: [
       {
         name: "Vidit Jindal",
         //   github: "https://github.com/Jayashree-panda",
-        email: "viditjindals2000@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Asidipta Chaudhuri",
         //   github: "https://github.com/avikantwadhwa",
-        email: "asidiptachaudhuri@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Palash Gupta",
         //   github: "https://github.com/laveesh",
-        email: "palash@indaigold.co",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3460,24 +3033,20 @@ export const projectData = [
       "Athavani/Memories is a full-stack MERN Tool built in order to save all your memories in a single place and rejoice them through the years.",
     technology_used: "MERN",
     repo_fullname: "Tejas1510/Athavani",
-    email: "tapasts@rknec.edu",
     mentors_id: [
       {
         name: "Sanjay Prajapati",
         //   github: "https://github.com/Jayashree-panda",
-        email: "sanjay270899@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Ashish Nagpal",
         //   github: "https://github.com/avikantwadhwa",
-        email: "ashishnagpal2498@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rashi Sharma",
         //   github: "https://github.com/laveesh",
-        email: "sachi8791@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3493,24 +3062,20 @@ export const projectData = [
       "https://drive.google.com/file/d/1Ix7_RbJVZmzNSHx8kCfVJsN3OfLpVD16/view?usp=drivesdk",
     technology_used: "JavaScript, HTML5, CSS3, Bootstrap, LaTeX",
     repo_fullname: "makesmatheasy/makesmatheasy",
-    email: "sairish2001@gmail.com",
     mentors_id: [
       {
         name: "Shrey Tripathi",
         //   github: "https://github.com/Jayashree-panda",
-        email: "shreytripathi27@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Apeksha Manchanda",
         //   github: "https://github.com/avikantwadhwa",
-        email: "manchanda.apeksha@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Nidhi Rajput",
         //   github: "https://github.com/laveesh",
-        email: "nidhirajput1301@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3524,36 +3089,30 @@ export const projectData = [
   //      "This project aims to predict the tag's of stack overflow posts to identify the post is related to which category's.",
   //   technology_used: "Python, Data analysis, Data Science,Machine Learning, Deep learning, Flask, Cloud Platform",
   //   repo_fullname: "Technocolabs100/Stack-Overflow-Tag-Predictions",
-  //       email: "shahyaseen71@gmail.com",
   //   mentors_id: [
   //     {
   //       name: "Ritesh Singh Soun",
   //    //   github: "https://github.com/Jayashree-panda",
-  //       email: "sounritesh@gmail.com",
   //    //   slackId: "UUC8L15G8",
   //    },
   //     {
   //      name: "Vivek Anand",
   //    //   github: "https://github.com/avikantwadhwa",
-  //       email: "vivek.a@research.iiit.ac.in",
   //    //   slackId: "UTZH4BELS",
   //     },
   //     {
   //       name: "Yasin Shah",
   //    //   github: "https://github.com/laveesh",
-  //       email: "shahyaseen71@gmail.com",
   //    //   slackId: "UU0PYRJ3V",
   //     },
   //     {
   //       name: "Yukti Sachdeva",
   //    //   github: "https://github.com/laveesh",
-  //       email: "yukti845@gmail.com",
   //    //   slackId: "UU0PYRJ3V",
   //     },
   //     {
   //       name: "Anurag",
   //    //   github: "https://github.com/laveesh",
-  //       email: "anurags.jadon10@gmail.com",
   //    //   slackId: "UU0PYRJ3V",
   //     }
   //   ],
@@ -3567,24 +3126,20 @@ export const projectData = [
       "Master PyAlgo is a complete handbook for competitive coders using Python or PYPY as their primary language. Not only creating and designing algorithms but solving problems in a systematic manner is also required to crack tech giants. This project consists of data structure algorithms along with a set of questions (topic wise) with their solutions in python, pypy language.",
     technology_used: "Python or PYPY",
     repo_fullname: "Developer-Student-Clubs-VSSUT-Burla/Master-PyAlgo",
-    email: "aitikdandapat@gmail.com",
     mentors_id: [
       {
         name: "Rohit Kumar srivastava",
         //   github: "https://github.com/Jayashree-panda",
-        email: "rohitsrivastava2303@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Joshitha Gandra",
         //   github: "https://github.com/avikantwadhwa",
-        email: "180020009@iitdh.ac.in",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rasika Kedia",
         //   github: "https://github.com/laveesh",
-        email: "rashrey2308@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3597,24 +3152,20 @@ export const projectData = [
   //   project_description: "As we install this app, there will be a user registration following the input of details like age and symptoms by speech to text method. After which the user will be told about the suspect percentage of Corona Virus using ML kit which uses the database. If suspect percentage is alarming, we will quarantine the suspect and provide him with a wrist band having GSM which will be driven by another application.",
   //   technology_used: "Android Studio, IBM Watson",
   //   repo_fullname: "i-tick/HackNitr-2020",
-  //       email: "aitikdandapat@gmail.com",
   //   mentors_id: [
   //     {
   //       name: "MAINAK CHAUDHURI",
   //    //   github: "https://github.com/Jayashree-panda",
-  //       email: "mainakc24365@gmail.com",
   //    //   slackId: "UUC8L15G8",
   //    },
   //     {
   //      name: "Vatsal Verma",
   //    //   github: "https://github.com/avikantwadhwa",
-  //       email: "vatsal22072001@gmail.com",
   //    //   slackId: "UTZH4BELS",
   //     },
   //     {
   //       name: "Raj Kumar Sony",
   //    //   github: "https://github.com/laveesh",
-  //       email: "raku19mca@cmrit.ac.in",
   //    //   slackId: "UU0PYRJ3V",
   //     },
   //   ],
@@ -3629,24 +3180,20 @@ export const projectData = [
     project_video_link: "https://www.youtube.com/watch?v=3hCQKaUxKRQ",
     technology_used: "Node JS, Javascript, Bash",
     repo_fullname: "kaushik-rishi/rocketcp",
-    email: "rishi.cp01@gmail.com",
     mentors_id: [
       {
         name: "Aravind Challa",
         //   github: "https://github.com/Jayashree-panda",
-        email: "aravind.challa1823@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Adarsh Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "learner.adarsh@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Rachitt Shah",
         //   github: "https://github.com/laveesh",
-        email: "rachitt01@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3659,25 +3206,21 @@ export const projectData = [
   //   project_description: "AmbSQL is a Relational Database Management System which created with keeping in focus the speed and the ease to operate on.",
   //   technology_used: "Python, SQL",
   //   repo_fullname: "ambujraj/ambsql",
-  //       email: "Ambujm143@gmail.com",
   //   mentors_id: [
   //     {
   //     name: "Aish Jain",
   //     //   github: "https://github.com/Jayashree-panda",
-  //        email: "aish.96jain@gmail.com",
   //     //   slackId: "UUC8L15G8",
   //     },
   //      {
   //       name: "Pratyush Raj",
   //     //   github: "https://github.com/avikantwadhwa",
-  //        email: "pratyushraj2f@gmail.com",
   //     //   slackId: "UTZH4BELS",
   //      },
 
   //     {
   //       name: "Dishebh",
 
-  //        email: "dishebh27@gmail.com",
 
   //      }
   //   ],
@@ -3693,24 +3236,20 @@ export const projectData = [
       "https://drive.google.com/file/d/1Ix7_RbJVZmzNSHx8kCfVJsN3OfLpVD16/view?usp=drivesdk",
     technology_used: "JavaScript, HTML5, CSS3, Bootstrap, LaTeX",
     repo_fullname: "makesmatheasy/makesmatheasy-documentation",
-    email: "sairish2001@gmail.com",
     mentors_id: [
       {
         name: "Shrey Tripathi",
         //   github: "https://github.com/Jayashree-panda",
-        email: "shreytripathi27@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Apeksha Manchanda",
         //   github: "https://github.com/avikantwadhwa",
-        email: "manchanda.apeksha@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Nidhi Rajput",
         //   github: "https://github.com/laveesh",
-        email: "nidhirajput1301@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],
@@ -3725,24 +3264,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: "HTML,CSS,Javascript ,Logo Design, Adobe XD",
     repo_fullname: "ProjectSakura/ProjectSakura.github.io",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3757,24 +3292,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: "React, Javascript,Logo Design, Adobe XD",
     repo_fullname: "ProjectSakura/wiki",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3789,24 +3320,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: "React, Javascript ,Logo Design, Adobe XD",
     repo_fullname: "ProjectSakura/contributors",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3821,24 +3348,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: " Vue, Javascript,Logo Design, Adobe XD",
     repo_fullname: "ProjectSakura/download",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3853,24 +3376,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: "React, Javascript, Java, Node,Logo Design, Adobe XD",
     repo_fullname: "ProjectSakura/maintainers",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3886,24 +3405,20 @@ export const projectData = [
     technology_used:
       "React,  Javascript, Postgresql Express Node Typescript ,Adobe XD",
     repo_fullname: "ProjectSakura/kord-app",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3918,24 +3433,20 @@ export const projectData = [
     project_video_link: "https://youtu.be/7k7nnAVBh9Y",
     technology_used: "React, Javascript,Adobe XD",
     repo_fullname: "ProjectSakura/blog",
-    email: "teltia.arun18@gmail.com",
     mentors_id: [
       {
         name: "Rhythm Jayee",
         //   github: "https://github.com/Jayashree-panda",
-        email: "jayeerythm8@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Priyanshu Pandey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "shen.priyanshu@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Yasharth Dubey",
         //   github: "https://github.com/avikantwadhwa",
-        email: "yashdubeywinner@gmail.com",
         //   slackId: "UTZH4BELS",
       },
     ],
@@ -3950,30 +3461,25 @@ export const projectData = [
     project_video_link: null,
     technology_used: "React, JavaScript, SCSS",
     repo_fullname: "praveenscience/easya-website",
-    email: "easya@praveen.science",
     mentors_id: [
       {
         name: "Shashwat Mishra",
         //   github: "https://github.com/praveenscience",
-        email: "ampsteric@gmail.com",
         //   slackId: "UUC8L15G8",
       },
       {
         name: "Aditya Pahilwani",
         //   github: "https://github.com/praveenscience",
-        email: "aditya.pahilwani@gmail.com",
         //   slackId: "UTZH4BELS",
       },
       {
         name: "Tejan Singh",
         //   github: "https://github.com/praveenscience",
-        email: "tstejan@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
       {
         name: "Aadhitya",
         //   github: "https://github.com/praveenscience",
-        email: "aadhitya864@gmail.com",
         //   slackId: "UU0PYRJ3V",
       },
     ],

@@ -1,99 +1,108 @@
 import React, { useState, useEffect } from "react";
 import { Box, Skeleton, SkeletonCircle, Spacer } from "@chakra-ui/react";
+import Head from "next/head";
+import { asset } from "../lib/asset";
+
+// GSSoC 2022 snapshot: only these editions are published, newest first
+const YEARS = ["2022", "2021", "2020", "2019"];
+const FALLBACK_PHOTO = asset("/GS_Foundation_logo_Black.svg");
+
+// Some links were saved without a scheme and would resolve as relative paths
+const withScheme = (url) =>
+  /^https?:\/\//i.test(url) ? url : `https://${url}`;
 
 const Team = () => {
   const [users, setUsers] = useState([]);
-  const getUsers2022 = async () => {
-    const response = await fetch(
-      "https://opensheet.elk.sh/1lbMJu8ZMBXcx66n0pkZI1eb8-fi8kBDQdwPoiIPPSRY/team2022"
-    );
-    setUsers(await response.json());
-  };
 
-  const getUsers2021 = async () => {
-    const response = await fetch(
-      "https://opensheet.elk.sh/1lbMJu8ZMBXcx66n0pkZI1eb8-fi8kBDQdwPoiIPPSRY/team2021"
-    );
-    setUsers(await response.json());
-  };
-
-  const getUsers2020 = async () => {
-    const response = await fetch(
-      "https://opensheet.elk.sh/1lbMJu8ZMBXcx66n0pkZI1eb8-fi8kBDQdwPoiIPPSRY/team2020"
-    );
-    setUsers(await response.json());
-  };
-
-  const getUsers2019 = async () => {
-    const response = await fetch(
-      "https://opensheet.elk.sh/1lbMJu8ZMBXcx66n0pkZI1eb8-fi8kBDQdwPoiIPPSRY/team2019"
-    );
-    setUsers(await response.json());
+  const getUsers = async (year) => {
+    const safeYear = YEARS.includes(String(year)) ? String(year) : YEARS[0];
+    let url = asset(`/team_data/team${safeYear}.json`);
+    try {
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      setUsers(await response.json());
+    } catch (err) {
+      console.error(`Could not load the ${safeYear} team`, err);
+      setUsers([]);
+    }
   };
 
   useEffect(() => {
-    getUsers2022();
+    var customQuery = window.location.href.split("#")[1]; // Direct link to /team#20XX
+    // Unknown or missing years fall back to 2022 (the snapshot edition)
+    customQuery ? getUsers(customQuery) : getUsers("2022");
   }, []);
 
   return (
     <>
+      <Head>
+        <title>
+          Team | GirlScript Summer of Code 2022 | GirlScript Foundation India
+        </title>
+        <meta name="description" content="GirlScript Summer of Code Team" />
+        {/* <link
+          rel="icon"
+          href="https://user-images.githubusercontent.com/63473496/153487849-4f094c16-d21c-463e-9971-98a8af7ba372.png"
+        /> */}
+      </Head>
       <div className="items-center justify-center">
-        <p className="font-sans text-center text-2xl font-extrabold text-black-100">
-          <p className="text-primary_orange-0 text-5xl text center font-extrabold mb-10 underline underline-offset-4 decoration-primary_orange-0">
-            Meet The Team
-          </p>
+        <div className="font-sans text-center text-2xl font-extrabold text-black-100">
+          <div className="text-primary_orange-0 dark:text-white font-sans text-3xl md:text-5xl text center font-extrabold flex wrap justify-center flex-col md:flex-row mb-10 underline decoration-orange-500  underline-offset-8">
+            <h1 className="text-primary_orange-0">Meet the&nbsp;</h1>
+            <h1>Team </h1>
+          </div>
           <p className=" text-primary_orange-0">
             Individuals can and do make a difference, <br />
             but it takes a team to really mess things up
           </p>
-        </p>
+        </div>
       </div>
       <Spacer mt={10} />
       <div className="flex flex-row justify-center flex-wrap items-center gap-5">
         <a>
           <button
-            className="bg-gradient-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-gradient-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded md:text-2xl md:py-4 rounded md:text-2xl md:py-6"
-            onClick={() => getUsers2022()}
+            className="bg-linear-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-linear-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded-sm md:text-2xl md:py-4 rounded-sm md:text-2xl md:py-6"
+            onClick={() => getUsers(2022)}
           >
             2022
           </button>
         </a>
         <a>
           <button
-            className="bg-gradient-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-gradient-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded md:text-2xl md:py-4 rounded md:text-2xl md:py-6"
-            onClick={() => getUsers2021()}
+            className="bg-linear-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-linear-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded-sm md:text-2xl md:py-4 rounded-sm md:text-2xl md:py-6"
+            onClick={() => getUsers(2021)}
           >
             2021
           </button>
         </a>
         <a>
           <button
-            className="bg-gradient-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-gradient-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded md:text-2xl md:py-4 rounded md:text-2xl md:py-6"
-            onClick={() => getUsers2020()}
+            className="bg-linear-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-linear-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded-sm md:text-2xl md:py-4 rounded-sm md:text-2xl md:py-6"
+            onClick={() => getUsers(2020)}
           >
             2020
           </button>
         </a>
         <a>
           <button
-            className="bg-gradient-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-gradient-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded md:text-2xl md:py-4 rounded md:text-2xl md:py-6"
-            onClick={() => getUsers2019()}
+            className="bg-linear-to-b from-primary_orange-0 to-orange-600 text-lg text-white dark:text-black font-medium hover:bg-linear-to-t hover:from-primary_orange-0 hover:to-orange-600 text-md text-white font-bold px-10 py-3 rounded-sm md:text-2xl md:py-4 rounded-sm md:text-2xl md:py-6"
+            onClick={() => getUsers(2019)}
           >
             2019
           </button>
         </a>
       </div>
       <Spacer mt={20} />
-      <div className="flex flex-row justify-center flex-wrap items-center gap-x-40 gap-y-10 w-100">
+      <div className="flex flex-row justify-center flex-wrap items-center gap-x-40 gap-y-10">
         {users.map((curElem, i) => {
           return (
-            <>
+            <React.Fragment key={i}>
               {curElem == null ? (
                 <div
                   className="flex flex-col items-center justify-center w-80 h-80 gap-5"
                   key={i}
                 >
-                  <SkeletonCircle size="100" />
+                  <SkeletonCircle size="100px" />
                   <br />
                   <Skeleton>
                     <Box className="text-center px={4}"> Cogito ergo Sum </Box>
@@ -107,18 +116,26 @@ const Team = () => {
                 </div>
               ) : (
                 <div className="flex items-center justify-center w-80" key={i}>
-                  <div className="p-3 shadow bg-primary_orange-0 rounded-xl w-full md:h-fit">
-                    <div className="h-max rounded-lg shadow-lg md:h-96 relative bottom-7 hover:-translate-y-4 duration-300">
+                  <div className="p-3 shadow-sm bg-primary_orange-0 rounded-xl w-full md:h-fit">
+                    <div className="h-max rounded-lg shadow-lg md:h-96 relative bottom-7 hover:-translate-y-4 duration-300 hover:cursor-pointer">
                       <img
-                        src={curElem.Image}
-                        alt="Team Member Photo"
-                        className="object-cover object-center w-full h-full"
+                        src={curElem.Image ? asset(curElem.Image) : FALLBACK_PHOTO}
+                        alt={curElem.Name}
+                        data-fallback={curElem.Image ? undefined : ""}
+                        onError={(e) => {
+                          // fall back once; stop if the logo itself fails
+                          if (!e.currentTarget.src.endsWith(FALLBACK_PHOTO)) {
+                            e.currentTarget.dataset.fallback = "";
+                            e.currentTarget.src = FALLBACK_PHOTO;
+                          }
+                        }}
+                        className="object-cover object-center w-full h-full data-fallback:aspect-square data-fallback:object-contain data-fallback:p-6 data-fallback:bg-white"
                       />
                     </div>
-                    
+
                     <div className="flex flex-col items-center justify-center">
                       <div className="font-bold text-black md:text-xl">
-                        {curElem["Name"]}
+                        {curElem["Name"] ?? curElem["Full name"]}
                       </div>
                       <p className="mb-3 text-lg text-white font-bold	md:text-base md:mb-4">
                         {curElem["Designation"]}
@@ -126,13 +143,13 @@ const Team = () => {
 
                       <div className="flex">
                         <div className="flex gap-4">
-                          {curElem["GitHub"] == "" ? (
+                          {!curElem["GitHub"]?.trim() ? (
                             <></>
                           ) : (
                             <a
                               target="_blank"
                               rel="noreferrer"
-                              href={curElem["GitHub"]}
+                              href={withScheme(curElem["GitHub"].trim())}
                             >
                               <svg
                                 className="w-6 h-6 text-black fill-current"
@@ -143,13 +160,14 @@ const Team = () => {
                               </svg>
                             </a>
                           )}
-                          {curElem.hasOwnProperty("Twitter")===false || curElem["Twitter"].trim() == ""? (
-                            <></> 
+                          {curElem.hasOwnProperty("Twitter") === false ||
+                          curElem["Twitter"].trim() == "" ? (
+                            <></>
                           ) : (
                             <a
                               target="_blank"
                               rel="noreferrer"
-                              href={curElem["Twitter"]}
+                              href={withScheme(curElem["Twitter"].trim())}
                             >
                               <svg
                                 className="w-6 h-6 text-black fill-current"
@@ -160,13 +178,13 @@ const Team = () => {
                               </svg>
                             </a>
                           )}
-                          {curElem["LinkedIn"] == "" ? (
+                          {!curElem["LinkedIn"]?.trim() ? (
                             <></>
                           ) : (
                             <a
                               target="_blank"
                               rel="noreferrer"
-                              href={curElem["LinkedIn"]}
+                              href={withScheme(curElem["LinkedIn"].trim())}
                             >
                               <svg
                                 className="w-6 h-6 text-black fill-current"
@@ -183,7 +201,7 @@ const Team = () => {
                   </div>
                 </div>
               )}
-            </>
+            </React.Fragment>
           );
         })}
       </div>

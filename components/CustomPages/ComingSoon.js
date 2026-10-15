@@ -1,7 +1,12 @@
 import Link from "next/link";
+import { useEffect, useState } from "react";
 
 function ComingSoon() {
-  let random_index = Math.floor(Math.random() * 5);
+  // Pick the review after mount so the prerendered HTML matches the first client render (React 19 hydration)
+  const [random_index, setRandomIndex] = useState(0);
+  useEffect(() => {
+    setRandomIndex(Math.floor(Math.random() * 5));
+  }, []);
   const reviews = [
     {
       review:
@@ -30,7 +35,7 @@ function ComingSoon() {
     },
   ];
   return (
-    <div className="h-[100vh] md:h-[100vh] py-5 flex flex-col items-center justify-between md:justify-center px-2">
+    <div className="h-screen md:h-screen py-5 flex flex-col items-center justify-between md:justify-center px-2">
       <div className="text__container">
         <h1 className="text-3xl dark:text-white text-gray-900 font-sans">
           Coming soon 🚧
